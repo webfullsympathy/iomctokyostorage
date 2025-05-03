@@ -1,103 +1,102 @@
 {
     "stone": {
-      	"name": "石",
-      	"locate": "X110 Y29.5 Z44",
-      	"group": "石"
+		"name": "石",
+		"locate": "X110 Y29.5 Z44",
+		"group": "石"
     },
     "cobblestone": {
-      	"name": "丸石",
-      	"locate": "X110 Y29.5 Z48",
-      	"group": "石"
+		"name": "丸石",
+		"locate": "X110 Y29.5 Z48",
+		"group": "石"
     },
     "grass_block": {
-      	"name": "草ブロック",
-      	"locate": "X110 Y29.5 Z52",
-      	"group": "土"
+		"name": "草ブロック",
+		"locate": "X110 Y29.5 Z52",
+		"group": "土"
     },
     "coarse_dirt": {
-    	"name": "荒い土"
-    	"locate": "X110 Y29.5 Z54"
-    	"group": "土"
+		"name": "荒い土",
+		"locate": "X110 Y29.5 Z54",
+		"group": "土"
     },
     "dirt": {
-    	"name": "土"
-    	"locate": "X110 Y29.5 Z56"
-    	"group": "土"
+		"name": "土",
+		"locate": "X110 Y29.5 Z56",
+		"group": "土"
     },
     "andesite": {
-    	"name": "安山岩"
-    	"locate": "X110 Y29.5 Z60"
-    	"group": "石"
+		"name": "安山岩",
+		"locate": "X110 Y29.5 Z60",
+		"group": "石"
     },
     "diorite": {
-    	"name": "閃緑岩"
-    	"locate": "X110 Y29.5 Z63"
-    	"group": "石"
+		"name": "閃緑岩",
+		"locate": "X110 Y29.5 Z63",
+		"group": "石"
     },
     "granite": {
-    	"name": "花崗岩"
-    	"locate": "X110 Y29.5 Z66"
-    	"group": "石"
+		"name": "花崗岩",
+		"locate": "X110 Y29.5 Z66",
+		"group": "石"
     },
     "tuff": {
-    	"name": "凝灰岩"
-    	"locate": "X110 Y29.5 Z69"
-    	"group": "石"
+		"name": "凝灰岩",
+		"locate": "X110 Y29.5 Z69",
+		"group": "石"
     },
     "blackstone": {
-    	"name": "ブラックストーン"
-    	"locate": "X110 Y29.5 Z72"
-    	"group": "石"
+		"name": "ブラックストーン",
+		"locate": "X110 Y29.5 Z72",
+		"group": "石"
     },
     "basalt": {
-    	"name": "玄武岩"
-    	"locate": "X110 Y29.5 Z76"
-    	"group": "石"
+		"name": "玄武岩",
+		"locate": "X110 Y29.5 Z76",
+		"group": "石"
     },
     "magma_block": {
-    	"name": "マグマブロック",
-    	"locate": "X108 Y29.5 Z78",
-    	"group": "ネザー"
+		"name": "マグマブロック",
+		"locate": "X108 Y29.5 Z78",
+		"group": "ネザー"
     },
     "soul_soil": {
-    	"name": "ソウルソイル",
-    	"locate": "X109 Y29.5 Z74",
-    	"group": "砂"
+		"name": "ソウルソイル",
+		"locate": "X109 Y29.5 Z74",
+		"group": "砂"
     },
     "soul_sand": {
-    	"name": "ソウルサンド",
-    	"locate": "X109 Y29.5 Z70",
+		"name": "ソウルサンド",
+		"locate": "X109 Y29.5 Z70",
 		"group": "砂"
     },
     "neatherrack": {
-    	"name": "ネザーラック",
-    	"locate": "X108 Y29.5 Z66",
-    	"group": "ネザー"
+		"name": "ネザーラック",
+		"locate": "X108 Y29.5 Z66",
+		"group": "ネザー"
     },
     "gravel": {
-    	"name": "砂利",
-    	"locate": "X108 Y29.5 Z62",
-    	"group": "砂"
+		"name": "砂利",
+		"locate": "X108 Y29.5 Z62",
+		"group": "砂"
     },
     "red_sand": {
-    	"name": "赤い砂",
-    	"locate": "X108 Y29.5 Z58.5",
-    	"group": "砂"
+		"name": "赤い砂",
+		"locate": "X108 Y29.5 Z58.5",
+		"group": "砂"
     },
     "sand": {
-    	"name": "砂",
-    	"locate": "X108 Y29.5 Z54",
-    	"group": "砂"
+		"name": "砂",
+		"locate": "X108 Y29.5 Z54",
+		"group": "砂"
     },
     "cobbled_deepslate": {
-    	"name": "深層岩の丸石",
-    	"locate": "X108 Y29.5 Z50",
-    	"group": "石"
+		"name": "深層岩の丸石",
+		"locate": "X108 Y29.5 Z50",
+		"group": "石"
     },
     "deepslate": {
-    	"name": "深層岩",
-    	"locate": "X108 Y29.5 Z46",
-    	"group": "石"
+		"name": "深層岩",
+		"locate": "X108 Y29.5 Z46",
+		"group": "石"
     }
 }
-  
