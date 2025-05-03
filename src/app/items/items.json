@@ -1,18 +1,13 @@
 {
     "stone": {
       "name": "石",
-      "locate": "100 60 50",
-      "group": "岩石"
+      "locate": "X110 Y29.5 Z44",
+      "group": "石"
     },
     "cobblestone": {
       "name": "丸石",
-      "locate": "110 60 50",
-      "group": "岩石"
-    },
-    "stone_slab": {
-      "name": "石のハーフブロック",
-      "locate": "120 60 50",
-      "group": "岩石"
+      "locate": "X110 Y29.5 Z48",
+      "group": "石"
     }
   }
   

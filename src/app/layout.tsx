@@ -19,7 +19,7 @@ export default function RootLayout({
 
         <div className="content has-text-centered">
           <p>
-            <strong>iomc東京倉庫ツール</strong> by <a href="https://wefusy.f5.si">Webfullsympathy</a>
+            <a href="https://github.com/webfullsympathy/iomctokyostorage"><strong>iomc東京倉庫ツール</strong></a>
 
             <br />
 
