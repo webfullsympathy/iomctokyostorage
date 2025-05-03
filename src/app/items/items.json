@@ -129,11 +129,6 @@
 		"locate": "X116 Y29.5 Z62",
 		"group": "防具"
 	},
-	"elytra": {
-		"name": "エリトラ",
-		"locate": "X116 Y29.5 Z67",
-		"group": "防具"
-	},
 	"turtle_helmet": {
 		"name": "カメの甲羅",
 		"locate": "X116 Y29.5 Z70",
@@ -142,6 +137,16 @@
 	"shield": {
 		"name": "盾",
 		"locate": "X117 Y29.5 Z47",
+		"group": "防具"
+	},
+	"wolf_armor": {
+		"name": "オオカミの鎧",
+		"locate": "X125 Y29.5 Z43",
+		"group": "防具"
+	},
+	"horse_armor": {
+		"name": "馬鎧",
+		"locate": "X129 Y29.5 Z43",
 		"group": "防具"
 	},
 
@@ -174,5 +179,31 @@
 		"name": "剣",
 		"locate": "X117 Y29.5 Z50",
 		"group": "武器"
+	},
+
+	"elytra": {
+		"name": "エリトラ",
+		"locate": "X116 Y29.5 Z67",
+		"group": "移動"
+	},
+	"firework_rocket": {
+		"name": "ロケット花火",
+		"locate": "X120 Y29.5 Z43",
+		"group": "移動"
+	},
+	"boat": {
+		"name": "ボート",
+		"locate": "X120 Y29.5 Z43",
+		"group": "移動"
+	},
+	"chest_boat": {
+		"name": "チェスト付きのボート",
+		"locate": "X120 Y29.5 Z43",
+		"group": "移動"
+	},
+	"saddle": {
+		"name": "鞍",
+		"locate": "X126 Y29.5 Z43",
+		"group": "移動"
 	}
 }
