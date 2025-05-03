@@ -19,7 +19,7 @@ export default function RootLayout({
 
         <div className="content has-text-centered">
           <p>
-            <strong>iomc東京倉庫</strong> by <a href="https://wefusy.f5.si">Webfullsympathy</a>
+            <strong>iomc東京倉庫ツール</strong> by <a href="https://wefusy.f5.si">Webfullsympathy</a>
 
             <br />
 
@@ -27,6 +27,8 @@ export default function RootLayout({
               href="https://support.misskey.io/hc/articles/8890525417999-ブランドアセット利用ガイドライン"
               target="_blank"
             >Misskey.ioブランドアセット利用ガイドライン</a>
+
+            <p><strong>※このサイトは非公式です。iomcプレイヤーによって開発・運営されています。</strong></p>
           </p>
         </div>
       </body>
