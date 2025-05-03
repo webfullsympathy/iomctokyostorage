@@ -1,0 +1,21 @@
+{
+    "name": "iomc東京倉庫",
+    "short_name": "iomc東京倉庫",
+    "description": "iomc東京倉庫のツールを用意しています",
+    "start_url": "/",
+    "display": "standalone",
+    "background_color": "#fff",
+    "theme_color": "#fff",
+    "icons": [
+        {
+            "src": "/icon-192x192.png",
+            "type": "image/png",
+            "sizes": "192x192"
+        },
+        {
+            "src": "/icon-512x512.png",
+            "type": "image/png",
+            "sizes": "512x512"
+        }
+    ]
+}
