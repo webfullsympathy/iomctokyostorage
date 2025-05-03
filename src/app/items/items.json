@@ -9,22 +9,7 @@
 		"locate": "X110 Y29.5 Z48",
 		"group": "石"
     },
-    "grass_block": {
-		"name": "草ブロック",
-		"locate": "X110 Y29.5 Z52",
-		"group": "土"
-    },
-    "coarse_dirt": {
-		"name": "荒い土",
-		"locate": "X110 Y29.5 Z54",
-		"group": "土"
-    },
-    "dirt": {
-		"name": "土",
-		"locate": "X110 Y29.5 Z56",
-		"group": "土"
-    },
-    "andesite": {
+	"andesite": {
 		"name": "安山岩",
 		"locate": "X110 Y29.5 Z60",
 		"group": "石"
@@ -54,6 +39,34 @@
 		"locate": "X110 Y29.5 Z76",
 		"group": "石"
     },
+	"cobbled_deepslate": {
+		"name": "深層岩の丸石",
+		"locate": "X108 Y29.5 Z50",
+		"group": "石"
+    },
+    "deepslate": {
+		"name": "深層岩",
+		"locate": "X108 Y29.5 Z46",
+		"group": "石"
+    },
+
+
+    "grass_block": {
+		"name": "草ブロック",
+		"locate": "X110 Y29.5 Z52",
+		"group": "土"
+    },
+    "coarse_dirt": {
+		"name": "荒い土",
+		"locate": "X110 Y29.5 Z54",
+		"group": "土"
+    },
+    "dirt": {
+		"name": "土",
+		"locate": "X110 Y29.5 Z56",
+		"group": "土"
+    },
+    
     "magma_block": {
 		"name": "マグマブロック",
 		"locate": "X108 Y29.5 Z78",
@@ -62,18 +75,19 @@
     "soul_soil": {
 		"name": "ソウルソイル",
 		"locate": "X109 Y29.5 Z74",
-		"group": "砂"
+		"group": "ネザー"
     },
     "soul_sand": {
 		"name": "ソウルサンド",
 		"locate": "X109 Y29.5 Z70",
-		"group": "砂"
+		"group": "ネザー"
     },
     "neatherrack": {
 		"name": "ネザーラック",
 		"locate": "X108 Y29.5 Z66",
 		"group": "ネザー"
     },
+
     "gravel": {
 		"name": "砂利",
 		"locate": "X108 Y29.5 Z62",
@@ -89,14 +103,76 @@
 		"locate": "X108 Y29.5 Z54",
 		"group": "砂"
     },
-    "cobbled_deepslate": {
-		"name": "深層岩の丸石",
-		"locate": "X108 Y29.5 Z50",
-		"group": "石"
-    },
-    "deepslate": {
-		"name": "深層岩",
-		"locate": "X108 Y29.5 Z46",
-		"group": "石"
-    }
+
+	"armor_trim_smithing_template": {
+		"name": "鍛冶型",
+		"locate": "X Y Z",
+		"group": "防具"
+	},
+	"helmet": {
+		"name": "ヘルメット",
+		"locate": "X116 Y29.5 Z47",
+		"group": "防具"
+	},
+	"chestplate": {
+		"name": "チェストプレート",
+		"locate": "X116 Y29.5 Z52",
+		"group": "防具"
+	},
+	"leggings": {
+		"name": "レギンス",
+		"locate": "X116 Y29.5 Z57",
+		"group": "防具"
+	},
+	"boots": {
+		"name": "ブーツ",
+		"locate": "X116 Y29.5 Z62",
+		"group": "防具"
+	},
+	"elytra": {
+		"name": "エリトラ",
+		"locate": "X116 Y29.5 Z67",
+		"group": "防具"
+	},
+	"turtle_helmet": {
+		"name": "カメの甲羅",
+		"locate": "X116 Y29.5 Z70",
+		"group": "防具"
+	},
+	"shield": {
+		"name": "盾",
+		"locate": "X117 Y29.5 Z47",
+		"group": "防具"
+	},
+
+	"mace": {
+		"name": "メイス",
+		"locate": "X116 Y29.5 Z71",
+		"group": "武器"
+	},
+	"arrow": {
+		"name": "矢",
+		"locate": "X117 Y29.5 Z64",
+		"group": "武器"
+	},
+	"crossbow": {
+		"name": "クロスボウ",
+		"locate": "X117 Y29.5 Z61",
+		"group": "武器"
+	},
+	"bow": {
+		"name": "弓",
+		"locate": "X117 Y29.5 Z58",
+		"group": "武器"
+	},
+	"trident": {
+		"name": "トライデント",
+		"locate": "X117 Y29.5 Z56",
+		"group": "武器"
+	},
+	"sword": {
+		"name": "剣",
+		"locate": "X117 Y29.5 Z50",
+		"group": "武器"
+	}
 }
