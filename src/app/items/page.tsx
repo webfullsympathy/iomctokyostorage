@@ -10,7 +10,6 @@ export const metadata: Metadata = {
 export default function Items() {
     return (
         <div className="content">
-            <h1 className="title">iomc東京倉庫</h1>
             <h2>アイテム検索</h2>
 
             <SearchBox />

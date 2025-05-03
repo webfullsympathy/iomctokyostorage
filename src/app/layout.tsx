@@ -14,7 +14,21 @@ export default function RootLayout({
   return (
     <html lang="ja">
       <body>
+        <h1 className="title">iomc東京倉庫</h1>
         {children}
+
+        <div className="content has-text-centered">
+          <p>
+            <strong>iomc東京倉庫</strong> by <a href="https://wefusy.f5.si">Webfullsympathy</a>
+
+            <br />
+
+            <a
+              href="https://support.misskey.io/hc/articles/8890525417999-ブランドアセット利用ガイドライン"
+              target="_blank"
+            >Misskey.ioブランドアセット利用ガイドライン</a>
+          </p>
+        </div>
       </body>
     </html>
   );

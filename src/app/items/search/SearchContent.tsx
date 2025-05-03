@@ -30,7 +30,6 @@ export default function SearchContent() {
 
   return (
     <div className="content">
-      <h1 className="title">iomc東京倉庫</h1>
       <h3>検索結果：</h3>
 
       {matchedItems.length === 0 ? (
