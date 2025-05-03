@@ -14,16 +14,16 @@ export default function SearchBox() {
     };
 
     return (
-    <>
-        <input
-            type="text"
-            placeholder="アイテム名を入力"
-            className="input"
-            id="itemname"
-            value={query}
-            onChange={(e) => setQuery(e.target.value)}
-        />
-        <button className="button" onClick={handleSearch}>検索</button>
-    </>
-  );
+        <>
+            <input
+                type="text"
+                placeholder="アイテム名を入力"
+                className="input"
+                id="itemname"
+                value={query}
+                onChange={(e) => setQuery(e.target.value)}
+            />
+            <button className="button" onClick={handleSearch}>検索</button>
+        </>
+    );
 }
