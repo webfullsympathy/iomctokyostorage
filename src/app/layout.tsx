@@ -1,4 +1,6 @@
 import type { Metadata } from "next";
+import { Analytics } from '@vercel/analytics/next';
+import { GoogleAnalytics } from "@next/third-parties/google";
 import "./bulma.css";
 
 export const metadata: Metadata = {
@@ -6,16 +8,20 @@ export const metadata: Metadata = {
   description: "iomc東京倉庫のツールを用意しています",
 };
 
-export default function RootLayout({
-  children,
-}: Readonly<{
-  children: React.ReactNode;
-}>) {
+export default function RootLayout(
+  {children,}:
+  Readonly<{
+    children: React.ReactNode;
+  }>
+){
+  const gaId = process.env.NEXT_PUBLIC_GOOGLE_ANALYTICS_ID;
   return (
     <html lang="ja">
       <body>
         <h1 className="title">iomc東京倉庫</h1>
         {children}
+
+        <Analytics />
 
         <div className="content has-text-centered">
           <p>
@@ -31,6 +37,8 @@ export default function RootLayout({
             <p><strong>※このサイトは非公式です。iomcプレイヤーによって開発・運営されています。</strong></p>
           </p>
         </div>
+
+        {gaId && <GoogleAnalytics gaId={gaId} />}
       </body>
     </html>
   );

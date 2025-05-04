@@ -1,229 +1,262 @@
 {
     "stone": {
-		"name": "石",
-		"locate": "X110 Y29.5 Z44",
-		"group": "石"
+        "name": "石",
+        "locate": [110, 29.5, 44],
+        "group": "石"
     },
     "cobblestone": {
-		"name": "丸石",
-		"locate": "X110 Y29.5 Z48",
-		"group": "石"
+        "name": "丸石",
+        "locate": [110, 29.5, 48],
+        "group": "石"
     },
-	"andesite": {
-		"name": "安山岩",
-		"locate": "X110 Y29.5 Z60",
-		"group": "石"
+    "andesite": {
+        "name": "安山岩",
+        "locate": [110, 29.5, 60],
+        "group": "石"
     },
     "diorite": {
-		"name": "閃緑岩",
-		"locate": "X110 Y29.5 Z63",
-		"group": "石"
+        "name": "閃緑岩",
+        "locate": [110, 29.5, 63],
+        "group": "石"
     },
     "granite": {
-		"name": "花崗岩",
-		"locate": "X110 Y29.5 Z66",
-		"group": "石"
+        "name": "花崗岩",
+        "locate": [110, 29.5, 66],
+        "group": "石"
     },
     "tuff": {
-		"name": "凝灰岩",
-		"locate": "X110 Y29.5 Z69",
-		"group": "石"
+        "name": "凝灰岩",
+        "locate": [110, 29.5, 69],
+        "group": "石"
     },
     "blackstone": {
-		"name": "ブラックストーン",
-		"locate": "X110 Y29.5 Z72",
-		"group": "石"
+        "name": "ブラックストーン",
+        "locate": [110, 29.5, 72],
+        "group": "石"
     },
     "basalt": {
-		"name": "玄武岩",
-		"locate": "X110 Y29.5 Z76",
-		"group": "石"
+        "name": "玄武岩",
+        "locate": [110, 29.5, 76],
+        "group": "石"
     },
-	"cobbled_deepslate": {
-		"name": "深層岩の丸石",
-		"locate": "X108 Y29.5 Z50",
-		"group": "石"
+    "cobbled_deepslate": {
+        "name": "深層岩の丸石",
+        "locate": [108, 29.5, 50],
+        "group": "石"
     },
     "deepslate": {
-		"name": "深層岩",
-		"locate": "X108 Y29.5 Z46",
-		"group": "石"
+        "name": "深層岩",
+        "locate": [108, 29.5, 46],
+        "group": "石"
     },
-
-
     "grass_block": {
-		"name": "草ブロック",
-		"locate": "X110 Y29.5 Z52",
-		"group": "土"
+        "name": "草ブロック",
+        "locate": [110, 29.5, 52],
+        "group": "土"
     },
     "coarse_dirt": {
-		"name": "荒い土",
-		"locate": "X110 Y29.5 Z54",
-		"group": "土"
+        "name": "荒い土",
+        "locate": [110, 29.5, 54],
+        "group": "土"
     },
     "dirt": {
-		"name": "土",
-		"locate": "X110 Y29.5 Z56",
-		"group": "土"
+        "name": "土",
+        "locate": [110, 29.5, 56],
+        "group": "土"
     },
-    
     "magma_block": {
-		"name": "マグマブロック",
-		"locate": "X108 Y29.5 Z78",
-		"group": "ネザー"
+        "name": "マグマブロック",
+        "locate": [108, 29.5, 78],
+        "group": "ネザー"
     },
     "soul_soil": {
-		"name": "ソウルソイル",
-		"locate": "X109 Y29.5 Z74",
-		"group": "ネザー"
+        "name": "ソウルソイル",
+        "locate": [109, 29.5, 74],
+        "group": "ネザー"
     },
     "soul_sand": {
-		"name": "ソウルサンド",
-		"locate": "X109 Y29.5 Z70",
-		"group": "ネザー"
+        "name": "ソウルサンド",
+        "locate": [109, 29.5, 70],
+        "group": "ネザー"
     },
     "neatherrack": {
-		"name": "ネザーラック",
-		"locate": "X108 Y29.5 Z66",
-		"group": "ネザー"
+        "name": "ネザーラック",
+        "locate": [108, 29.5, 66],
+        "group": "ネザー"
     },
-
     "gravel": {
-		"name": "砂利",
-		"locate": "X108 Y29.5 Z62",
-		"group": "砂"
+        "name": "砂利",
+        "locate": [108, 29.5, 62],
+        "group": "砂"
     },
     "red_sand": {
-		"name": "赤い砂",
-		"locate": "X108 Y29.5 Z58.5",
-		"group": "砂"
+        "name": "赤い砂",
+        "locate": [108, 29.5, 58.5],
+        "group": "砂"
     },
     "sand": {
-		"name": "砂",
-		"locate": "X108 Y29.5 Z54",
-		"group": "砂"
+        "name": "砂",
+        "locate": [108, 29.5, 54],
+        "group": "砂"
+    },
+    "armor_trim_smithing_template": {
+        "name": "鍛冶型",
+        "locate": [0, 0, 0],
+        "group": "防具"
+    },
+    "helmet": {
+        "name": "ヘルメット",
+        "locate": [116, 29.5, 47],
+        "group": "防具"
+    },
+    "chestplate": {
+        "name": "チェストプレート",
+        "locate": [116, 29.5, 52],
+        "group": "防具"
+    },
+    "leggings": {
+        "name": "レギンス",
+        "locate": [116, 29.5, 57],
+        "group": "防具"
+    },
+    "boots": {
+        "name": "ブーツ",
+        "locate": [116, 29.5, 62],
+        "group": "防具"
+    },
+    "turtle_helmet": {
+        "name": "カメの甲羅",
+        "locate": [116, 29.5, 70],
+        "group": "防具"
+    },
+    "shield": {
+        "name": "盾",
+        "locate": [117, 29.5, 47],
+        "group": "防具"
+    },
+    "wolf_armor": {
+        "name": "オオカミの鎧",
+        "locate": [125, 29.5, 43],
+        "group": "防具"
+    },
+    "horse_armor": {
+        "name": "馬鎧",
+        "locate": [129, 29.5, 43],
+        "group": "防具"
     },
 
-	"armor_trim_smithing_template": {
-		"name": "鍛冶型",
-		"locate": "X Y Z",
-		"group": "防具"
-	},
-	"helmet": {
-		"name": "ヘルメット",
-		"locate": "X116 Y29.5 Z47",
-		"group": "防具"
-	},
-	"chestplate": {
-		"name": "チェストプレート",
-		"locate": "X116 Y29.5 Z52",
-		"group": "防具"
-	},
-	"leggings": {
-		"name": "レギンス",
-		"locate": "X116 Y29.5 Z57",
-		"group": "防具"
-	},
-	"boots": {
-		"name": "ブーツ",
-		"locate": "X116 Y29.5 Z62",
-		"group": "防具"
-	},
-	"turtle_helmet": {
-		"name": "カメの甲羅",
-		"locate": "X116 Y29.5 Z70",
-		"group": "防具"
-	},
-	"shield": {
-		"name": "盾",
-		"locate": "X117 Y29.5 Z47",
-		"group": "防具"
-	},
-	"wolf_armor": {
-		"name": "オオカミの鎧",
-		"locate": "X125 Y29.5 Z43",
-		"group": "防具"
-	},
-	"horse_armor": {
-		"name": "馬鎧",
-		"locate": "X129 Y29.5 Z43",
-		"group": "防具"
-	},
+    "mace": {
+        "name": "メイス",
+        "locate": [116, 29.5, 71],
+        "group": "武器"
+    },
+    "arrow": {
+        "name": "矢",
+        "locate": [117, 29.5, 64],
+        "group": "武器"
+    },
+    "crossbow": {
+        "name": "クロスボウ",
+        "locate": [117, 29.5, 61],
+        "group": "武器"
+    },
+    "bow": {
+        "name": "弓",
+        "locate": [117, 29.5, 58],
+        "group": "武器"
+    },
+    "trident": {
+        "name": "トライデント",
+        "locate": [117, 29.5, 56],
+        "group": "武器"
+    },
+    "sword": {
+        "name": "剣",
+        "locate": [117, 29.5, 50],
+        "group": "武器"
+    },
+    "fire_charge": {
+        "name": "ファイヤーチャージ",
+        "locate": [132, 29.5, 43],
+        "group": "武器"
+    },
 
-	"mace": {
-		"name": "メイス",
-		"locate": "X116 Y29.5 Z71",
-		"group": "武器"
-	},
-	"arrow": {
-		"name": "矢",
-		"locate": "X117 Y29.5 Z64",
-		"group": "武器"
-	},
-	"crossbow": {
-		"name": "クロスボウ",
-		"locate": "X117 Y29.5 Z61",
-		"group": "武器"
-	},
-	"bow": {
-		"name": "弓",
-		"locate": "X117 Y29.5 Z58",
-		"group": "武器"
-	},
-	"trident": {
-		"name": "トライデント",
-		"locate": "X117 Y29.5 Z56",
-		"group": "武器"
-	},
-	"sword": {
-		"name": "剣",
-		"locate": "X117 Y29.5 Z50",
-		"group": "武器"
-	},
-	"elytra": {
-		"name": "エリトラ",
-		"locate": "X116 Y29.5 Z67",
-		"group": "移動"
-	},
-	"firework_rocket": {
-		"name": "ロケット花火",
-		"locate": "X120 Y29.5 Z43",
-		"group": "移動"
-	},
-	"boat": {
-		"name": "ボート",
-		"locate": "X120 Y29.5 Z43",
-		"group": "移動"
-	},
-	"chest_boat": {
-		"name": "チェスト付きのボート",
-		"locate": "X120 Y29.5 Z43",
-		"group": "移動"
-	},
-	"saddle": {
-		"name": "鞍",
-		"locate": "X126 Y29.5 Z43",
-		"group": "移動"
-	},
+    "elytra": {
+        "name": "エリトラ",
+        "locate": [116, 29.5, 67],
+        "group": "移動"
+    },
+    "firework_rocket": {
+        "name": "ロケット花火",
+        "locate": [120, 29.5, 43],
+        "group": "移動"
+    },
+    "boat": {
+        "name": "ボート",
+        "locate": [120, 29.5, 43],
+        "group": "移動"
+    },
+    "chest_boat": {
+        "name": "チェスト付きのボート",
+        "locate": [120, 29.5, 43],
+        "group": "移動"
+    },
+    "saddle": {
+        "name": "鞍",
+        "locate": [126, 29.5, 43],
+        "group": "移動"
+    },
 
-	"log": {
-		"name": "オークの原木",
-		"locate": "X100 Y29.5 Z42",
-		"group": "原木"
-	},
-	"log_that_burn": {
-		"name": "樹皮を剥いだオークの原木",
-		"locate": "X100 Y29.5 Z42",
-		"group": "原木"
-	},
-	"wood": {
-		"name": "オークの木",
-		"locate": "X100 Y29.5 Z42",
-		"group": "原木"
-	},
-	"plank": {
-		"name": "オークの板材",
-		"locate": "X100 Y29.5 Z42",
-		"group": "原木"
-	}
+    "growstone_dust": {
+        "name": "グロウストーンダスト",
+        "locate": [133, 29.5, 43],
+        "group": "ポーション素材"
+    },
+    "gunpowder": {
+        "name": "火薬",
+        "locate": [135, 29.5, 43],
+        "group": "ポーション素材"
+    },
+    "blaze_powder": {
+        "name": "ブレイズパウダー",
+        "locate": [135, 29.5, 45],
+        "group": "ポーション素材"
+    },
+
+    "oak_log": {
+        "name": "オークの原木",
+        "locate": [99, 29.5, 41],
+        "group": "木"
+    },
+    "oak_leaves": {
+        "name": "オークの葉",
+        "locate": [99, 29.5, 47],
+        "group": "木"
+    },
+    "oak_sapling": {
+        "name": "オークの苗木",
+        "locate": [99, 29.5, 48],
+        "group": "木"
+    },
+
+    "oak_planks": {
+        "name": "オークの板材",
+        "locate": [99, 29.5, 44],
+        "group": "建材"
+    },
+    "oak_slab": {
+        "name": "オークのハーフブロック",
+        "locate": [99, 29.5, 45],
+        "group": "建材"
+    },
+    "oak_sign": {
+        "name": "オークの看板",
+        "locate": [99, 29.5, 46],
+        "group": "建材"
+    },
+    "oak_hanging_sign": {
+        "name": "オークの吊り看板",
+        "locate": [99, 29.5, 46],
+        "group": "建材"
+    }
 }

@@ -6,7 +6,7 @@ import itemsJson from "../items.json";
 
 type ItemData = {
   name: string;
-  locate: string;
+  locate: Array<Number>;
   group: string;
 };
 
@@ -31,7 +31,17 @@ export default function DetailContent() {
     <div className="content">
       <h1 className="title">{item.name}</h1>
       <p><strong>アイテムID：</strong> {key}</p>
-      <p><strong>座標：</strong> {item.locate}</p>
+      
+      <p>
+        <strong>座標：</strong>
+        X
+        {item.locate[0].toString() + " "}
+        Y
+        {item.locate[1].toString() + " "}
+        Z
+        {item.locate[2].toString()}
+      </p>
+
       <p><strong>ジャンル：</strong> {item.group}</p>
     </div>
   );
