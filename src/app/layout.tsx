@@ -21,8 +21,6 @@ export default function RootLayout(
         <h1 className="title">iomc東京倉庫</h1>
         {children}
 
-        <Analytics />
-
         <div className="content has-text-centered">
           <p>
             <a href="https://github.com/webfullsympathy/iomctokyostorage"><strong>iomc東京倉庫ツール</strong></a>
@@ -39,6 +37,7 @@ export default function RootLayout(
         </div>
 
         {gaId && <GoogleAnalytics gaId={gaId} />}
+        <Analytics />
       </body>
     </html>
   );
