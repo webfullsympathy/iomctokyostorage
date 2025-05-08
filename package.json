@@ -12,17 +12,27 @@
     "@next/third-parties": "^15.3.1",
     "@vercel/analytics": "^1.5.0",
     "bulma": "^1.0.4",
-    "next": "15.3.1",
+    "dotenv": "^16.5.0",
+    "eslint": "^9.26.0",
+    "mysql2": "^3.14.1",
+    "next": "^15.3.2",
+    "punycode": "^2.3.1",
     "react": "^19.0.0",
     "react-dom": "^19.0.0",
-    "react-zoom-pan-pinch": "^3.7.0"
+    "react-zoom-pan-pinch": "^3.7.0",
+    "uuid": "^11.1.0"
   },
   "devDependencies": {
+    "@types/mysql": "^2.15.27",
     "@types/node": "^20",
     "@types/react": "^19",
     "@types/react-dom": "^19",
-    "eslint": "9.26.0",
     "eslint-config-next": "15.3.1",
     "typescript": "^5"
+  },
+  "overrides": {
+    "whatwg-url": {
+      "punycode": "punycode@2.3.1"
+    }
   }
 }

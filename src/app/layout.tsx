@@ -1,7 +1,11 @@
 import type { Metadata } from "next";
+
 import { Analytics } from '@vercel/analytics/next';
 import { GoogleAnalytics } from "@next/third-parties/google";
+
 import "./bulma.css";
+
+require("dotenv").config();
 
 export const metadata: Metadata = {
   title: "iomc東京倉庫",
@@ -15,6 +19,7 @@ export default function RootLayout(
   }>
 ){
   const gaId = process.env.NEXT_PUBLIC_GOOGLE_ANALYTICS_ID;
+
   return (
     <html lang="ja">
       <body>
@@ -32,7 +37,9 @@ export default function RootLayout(
               target="_blank"
             >Misskey.ioブランドアセット利用ガイドライン</a>
 
-            <p><strong>※このサイトは非公式です。iomcプレイヤーによって開発・運営されています。</strong></p>
+            <br />
+
+            <strong>※このサイトは非公式です。iomcプレイヤーによって開発・運営されています。</strong>
           </p>
         </div>
 
