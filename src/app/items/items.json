@@ -258,5 +258,4496 @@
         "name": "オークの吊り看板",
         "locate": [99, 29.5, 46],
         "group": "建材"
+    },
+
+    "podzol": {
+        "name": "ポドゾル",
+        "locate": [111, 29.5, 54],
+        "group": "土"
+    },
+    "mycelium": {
+        "name": "菌糸",
+        "locate": [111, 29.5, 54],
+        "group": "土"
+    },
+    "suspicious_gravel": {
+        "name": "怪しげな砂利",
+        "locate": [108, 29.5, 61],
+        "group": "砂"
+    },
+    "flint": {
+        "name": "火打石",
+        "locate": [108, 29.5, 61],
+        "group": "砂"
+    },
+    "suspicious_sand": {
+        "name": "怪しげな砂",
+        "locate": [108, 29.5, 53],
+        "group": "砂"
+    },
+    "charcoal": {
+        "name": "木炭",
+        "locate": [104, 29.5, 44],
+        "group": "燃料"
+    },
+    "stripped_oak_log": {
+        "name": "樹皮を剥いだオークの原木",
+        "locate": [99, 29.5, 42],
+        "group": "オーク"
+    },
+    "stripped_oak_wood": {
+        "name": "樹皮を剥いだオークの木",
+        "locate": [99, 29.5, 42],
+        "group": "オーク"
+    },
+    "oak_wood": {
+        "name": "オークの木",
+        "locate": [99, 29.5, 42],
+        "group": "オーク"
+    },
+    "oak_stairs": {
+        "name": "オークの階段",
+        "locate": [98, 29.5, 45],
+        "group": "オーク"
+    },
+    "oak_trapdoor": {
+        "name": "オークのトラップドア",
+        "locate": [98, 29.5, 46],
+        "group": "オーク"
+    },
+    "oak_door": {
+        "name": "オークのドア",
+        "locate": [98, 29.5, 46],
+        "group": "オーク"
+    },
+    "oak_fence": {
+        "name": "オークのフェンス",
+        "locate": [98, 29.5, 46],
+        "group": "オーク"
+    },
+    "oak_fence_gate": {
+        "name": "オークのフェンスゲート",
+        "locate": [98, 29.5, 46],
+        "group": "オーク"
+    },
+    "stripped_birch_log": {
+        "name": "樹皮を剥いだシラカバの原木",
+        "locate": [98, 29.5, 52],
+        "group": "シラカバ"
+    },
+    "stripped_birch_wood": {
+        "name": "樹皮を剥いだシラカバの木",
+        "locate": [98, 29.5, 52],
+        "group": "シラカバ"
+    },
+    "birch_wood": {
+        "name": "シラカバの木",
+        "locate": [98, 29.5, 52],
+        "group": "シラカバ"
+    },
+    "birch_planks": {
+        "name": "シラカバの板材",
+        "locate": [98, 29.5, 53],
+        "group": "シラカバ"
+    },
+    "birch_stairs": {
+        "name": "シラカバの階段",
+        "locate": [98, 29.5, 55],
+        "group": "シラカバ"
+    },
+    "birch_slab": {
+        "name": "シラカバのハーフブロック",
+        "locate": [98, 29.5, 55],
+        "group": "シラカバ"
+    },
+    "birch_hanging_sign": {
+        "name": "シラカバの吊り看板",
+        "locate": [98, 29.5, 55],
+        "group": "シラカバ"
+    },
+    "birch_fence": {
+        "name": "シラカバのフェンス",
+        "locate": [98, 29.5, 55],
+        "group": "シラカバ"
+    },
+    "birch_fence_gate": {
+        "name": "シラカバのフェンスゲート",
+        "locate": [98, 29.5, 55],
+        "group": "シラカバ"
+    },
+    "birch_trapdoor": {
+        "name": "シラカバのトラップドア",
+        "locate": [98, 29.5, 55],
+        "group": "シラカバ"
+    },
+    "birch_door": {
+        "name": "シラカバのドア",
+        "locate": [98, 29.5, 55],
+        "group": "シラカバ"
+    },
+    "birch_leaves": {
+        "name": "シラカバの葉",
+        "locate": [98, 29.5, 56],
+        "group": "シラカバ"
+    },
+    "mangrove_log": {
+        "name": "マングローブの原木",
+        "locate": [98, 29.5, 59],
+        "group": "マングローブ"
+    },
+    "stripped_mangrove_log": {
+        "name": "樹皮を剥いだマングローブの原木",
+        "locate": [98, 29.5, 61],
+        "group": "マングローブ"
+    },
+    "stripped_mangrove_wood": {
+        "name": "樹皮を剥いだマングローブの木",
+        "locate": [98, 29.5, 61],
+        "group": "マングローブ"
+    },
+    "mangrove_wood": {
+        "name": "マングローブの木",
+        "locate": [98, 29.5, 61],
+        "group": "マングローブ"
+    },
+    "mangrove_planks": {
+        "name": "マングローブの板材",
+        "locate": [98, 29.5, 62],
+        "group": "マングローブ"
+    },
+    "mangrove_slab": {
+        "name": "マングローブのハーフブロック",
+        "locate": [98, 29.5, 63],
+        "group": "マングローブ"
+    },
+    "mangrove_stairs": {
+        "name": "マングローブの階段",
+        "locate": [98, 29.5, 63],
+        "group": "マングローブ"
+    },
+    "mangrove_trapdoor": {
+        "name": "マングローブのトラップドア",
+        "locate": [98, 29.5, 64],
+        "group": "マングローブ"
+    },
+    "mangrove_door": {
+        "name": "マングローブのドア",
+        "locate": [98, 29.5, 64],
+        "group": "マングローブ"
+    },
+    "mangrove_fence": {
+        "name": "マングローブのフェンス",
+        "locate": [98, 29.5, 64],
+        "group": "マングローブ"
+    },
+    "mangrove_fence_gate": {
+        "name": "マングローブのフェンスゲート",
+        "locate": [98, 29.5, 64],
+        "group": "マングローブ"
+    },
+    "mangrove_sign": {
+        "name": "マングローブの看板",
+        "locate": [98, 29.5, 64],
+        "group": "マングローブ"
+    },
+    "mangrove_hanging_sign": {
+        "name": "マングローブの吊り看板",
+        "locate": [98, 29.5, 64],
+        "group": "マングローブ"
+    },
+    "mangrove_leaves": {
+        "name": "マングローブの葉",
+        "locate": [98, 29.5, 65],
+        "group": "マングローブ"
+    },
+    "mangrove_propagule": {
+        "name": "マングローブの芽",
+        "locate": [98, 29.5, 66],
+        "group": "マングローブ"
+    },
+    "mangrove_roots": {
+        "name": "マングローブの根",
+        "locate": [98, 29.5, 67],
+        "group": "マングローブ"
+    },
+    "muddy_mangrove_roots": {
+        "name": "泥だらけのマングローブの根",
+        "locate": [98, 29.5, 67],
+        "group": "マングローブ"
+    },
+    "pink_petals": {
+        "name": "桜色の花びら",
+        "locate": [98, 29.5, 67],
+        "group": "桜"
+    },
+    "cherry_sapling": {
+        "name": "サクラの苗木",
+        "locate": [98, 29.5, 66],
+        "group": "桜"
+    },
+    "cherry_leaves": {
+        "name": "サクラの葉",
+        "locate": [98, 29.5, 65],
+        "group": "桜"
+    },
+    "cherry_trapdoor": {
+        "name": "サクラのトラップドア",
+        "locate": [98, 29.5, 64],
+        "group": "桜"
+    },
+    "cherry_door": {
+        "name": "サクラのドア",
+        "locate": [98, 29.5, 64],
+        "group": "桜"
+    },
+    "cherry_fence": {
+        "name": "サクラのフェンス",
+        "locate": [98, 29.5, 64],
+        "group": "桜"
+    },
+    "cherry_fence_gate": {
+        "name": "サクラのフェンスゲート",
+        "locate": [98, 29.5, 64],
+        "group": "桜"
+    },
+    "cherry_sign": {
+        "name": "サクラの看板",
+        "locate": [98, 29.5, 64],
+        "group": "桜"
+    },
+    "cherry_hanging_sign": {
+        "name": "サクラの吊り看板",
+        "locate": [98, 29.5, 64],
+        "group": "桜"
+    },
+    "cherry_slab": {
+        "name": "サクラのハーフブロック",
+        "locate": [98, 29.5, 63],
+        "group": "桜"
+    },
+    "cherry_stairs": {
+        "name": "サクラの階段",
+        "locate": [98, 29.5, 63],
+        "group": "桜"
+    },
+    "cherry_planks": {
+        "name": "サクラの板材",
+        "locate": [98, 29.5, 62],
+        "group": "桜"
+    },
+    "stripped_cherry_log": {
+        "name": "樹皮を剥いだサクラの原木",
+        "locate": [98, 29.5, 59],
+        "group": "桜"
+    },
+    "stripped_cherry_wood": {
+        "name": "樹皮を剥いだサクラの木",
+        "locate": [98, 29.5, 59],
+        "group": "桜"
+    },
+    "cherry_wood": {
+        "name": "サクラの木",
+        "locate": [98, 29.5, 59],
+        "group": "桜"
+    },
+    "dark_oak_sapling": {
+        "name": "ダークオークの苗木",
+        "locate": [98, 29.5, 57],
+        "group": "ダークオーク"
+    },
+    "dark_oak_leaves": {
+        "name": "ダークオークの葉",
+        "locate": [98, 29.5, 56],
+        "group": "ダークオーク"
+    },
+    "dark_oak_trapdoor": {
+        "name": "ダークオークのトラップドア",
+        "locate": [98, 29.5, 55],
+        "group": "ダークオーク"
+    },
+    "dark_oak_door": {
+        "name": "ダークオークのドア",
+        "locate": [98, 29.5, 55],
+        "group": "ダークオーク"
+    },
+    "dark_oak_fence": {
+        "name": "ダークオークのフェンス",
+        "locate": [98, 29.5, 55],
+        "group": "ダークオーク"
+    },
+    "dark_oak_fence_gate": {
+        "name": "ダークオークのフェンスゲート",
+        "locate": [98, 29.5, 55],
+        "group": "ダークオーク"
+    },
+    "dark_oak_sign": {
+        "name": "ダークオークの看板",
+        "locate": [98, 29.5, 55],
+        "group": "ダークオーク"
+    },
+    "dark_oak_hanging_sign": {
+        "name": "ダークオークの吊り看板",
+        "locate": [98, 29.5, 55],
+        "group": "ダークオーク"
+    },
+    "dark_oak_slab": {
+        "name": "ダークオークのハーフブロック",
+        "locate": [98, 29.5, 54],
+        "group": "ダークオーク"
+    },
+    "dark_oak_stairs": {
+        "name": "ダークオークの階段",
+        "locate": [98, 29.5, 54],
+        "group": "ダークオーク"
+    },
+    "dark_oak_planks": {
+        "name": "ダークオークの板材",
+        "locate": [98, 29.5, 53],
+        "group": "ダークオーク"
+    },
+    "stripped_dark_oak_log": {
+        "name": "樹皮を剥いだダークオークの原木",
+        "locate": [98, 29.5, 50],
+        "group": "ダークオーク"
+    },
+    "stripped_dark_oak_wood": {
+        "name": "樹皮を剥いだダークオークの木",
+        "locate": [98, 29.5, 50],
+        "group": "ダークオーク"
+    },
+    "dark_oak_wood": {
+        "name": "ダークオークの木",
+        "locate": [98, 29.5, 50],
+        "group": "ダークオーク"
+    },
+    "spruce_sapling": {
+        "name": "トウヒの苗木",
+        "locate": [99, 29.5, 47],
+        "group": "トウヒ"
+    },
+    "spruce_leaves": {
+        "name": "トウヒの葉",
+        "locate": [99, 29.5, 47],
+        "group": "トウヒ"
+    },
+    "spruce_trapdoor": {
+        "name": "トウヒのトラップドア",
+        "locate": [99, 29.5, 47],
+        "group": "トウヒ"
+    },
+    "spruce_door": {
+        "name": "トウヒのドア",
+        "locate": [99, 29.5, 47],
+        "group": "トウヒ"
+    },
+    "spruce_fence": {
+        "name": "トウヒのフェンス",
+        "locate": [99, 29.5, 47],
+        "group": "トウヒ"
+    },
+    "spruce_fence_gate": {
+        "name": "トウヒのフェンスゲート",
+        "locate": [99, 29.5, 47],
+        "group": "トウヒ"
+    },
+    "spruce_sign": {
+        "name": "トウヒの看板",
+        "locate": [99, 29.5, 47],
+        "group": "トウヒ"
+    },
+    "spruce_hanging_sign": {
+        "name": "トウヒの吊り看板",
+        "locate": [99, 29.5, 47],
+        "group": "トウヒ"
+    },
+    "spruce_slab": {
+        "name": "トウヒのハーフブロック",
+        "locate": [99, 29.5, 45],
+        "group": "トウヒ"
+    },
+    "spruce_stairs": {
+        "name": "トウヒの階段",
+        "locate": [99, 29.5, 45],
+        "group": "トウヒ"
+    },
+    "spruce_planks": {
+        "name": "トウヒの板材",
+        "locate": [98, 29.5, 44],
+        "group": "トウヒ"
+    },
+    "spruce_log": {
+        "name": "トウヒの原木",
+        "locate": [98, 29.5, 43],
+        "group": "トウヒ"
+    },
+    "stripped_spruce_log": {
+        "name": "樹皮を剥いだトウヒの原木",
+        "locate": [98, 29.5, 42],
+        "group": "トウヒ"
+    },
+    "stripped_spruce_wood": {
+        "name": "樹皮を剥いだトウヒの木",
+        "locate": [98, 29.5, 42],
+        "group": "トウヒ"
+    },
+    "spruce_wood": {
+        "name": "トウヒの木",
+        "locate": [98, 29.5, 42],
+        "group": "トウヒ"
+    },
+    "acacia_log": {
+        "name": "アカシアの原木",
+        "locate": [92, 29.5, 40],
+        "group": "アカシア"
+    },
+    "stripped_acacia_log": {
+        "name": "樹皮を剥いだアカシアの原木",
+        "locate": [92, 29.5, 43],
+        "group": "アカシア"
+    },
+    "stripped_acacia_wood": {
+        "name": "樹皮を剥いだアカシアの木",
+        "locate": [92, 29.5, 43],
+        "group": "アカシア"
+    },
+    "acacia_wood": {
+        "name": "アカシアの木",
+        "locate": [92, 29.5, 43],
+        "group": "アカシア"
+    },
+    "acacia_planks": {
+        "name": "アカシアの板材",
+        "locate": [92, 29.5, 44],
+        "group": "アカシア"
+    },
+    "acacia_slab": {
+        "name": "アカシアのハーフブロック",
+        "locate": [92, 29.5, 45],
+        "group": "アカシア"
+    },
+    "acacia_stairs": {
+        "name": "アカシアの階段",
+        "locate": [92, 29.5, 45],
+        "group": "アカシア"
+    },
+    "acacia_trapdoor": {
+        "name": "アカシアのトラップドア",
+        "locate": [91, 29.5, 46],
+        "group": "アカシア"
+    },
+    "acacia_door": {
+        "name": "アカシアのドア",
+        "locate": [91, 29.5, 46],
+        "group": "アカシア"
+    },
+    "acacia_fence": {
+        "name": "アカシアのフェンス",
+        "locate": [91, 29.5, 46],
+        "group": "アカシア"
+    },
+    "acacia_fence_gate": {
+        "name": "アカシアのフェンスゲート",
+        "locate": [91, 29.5, 46],
+        "group": "アカシア"
+    },
+    "acacia_sign": {
+        "name": "アカシアの看板",
+        "locate": [91, 29.5, 46],
+        "group": "アカシア"
+    },
+    "acacia_hanging_sign": {
+        "name": "アカシアの吊り看板",
+        "locate": [91, 29.5, 46],
+        "group": "アカシア"
+    },
+    "acacia_leaves": {
+        "name": "アカシアの葉",
+        "locate": [91, 29.5, 47],
+        "group": "アカシア"
+    },
+    "acacia_sapling": {
+        "name": "アカシアの苗木",
+        "locate": [92, 29.5, 48],
+        "group": "アカシア"
+    },
+    "stripped_jungle_log": {
+        "name": "樹皮を剥いだジャングルの原木",
+        "locate": [92, 29.5, 51],
+        "group": "ジャングル"
+    },
+    "stripped_jungle_wood": {
+        "name": "樹皮を剥いだジャングルの木",
+        "locate": [92, 29.5, 51],
+        "group": "ジャングル"
+    },
+    "jungle_wood": {
+        "name": "ジャングルの木",
+        "locate": [92, 29.5, 51],
+        "group": "ジャングル"
+    },
+    "jungle_planks": {
+        "name": "ジャングルの板材",
+        "locate": [92, 29.5, 53],
+        "group": "ジャングル"
+    },
+    "jungle_stairs": {
+        "name": "ジャングルの階段",
+        "locate": [92, 29.5, 54],
+        "group": "ジャングル"
+    },
+    "jungle_slab": {
+        "name": "ジャングルのハーフブロック",
+        "locate": [92, 29.5, 54],
+        "group": "ジャングル"
+    },
+    "jungle_sign": {
+        "name": "ジャングルの看板",
+        "locate": [92, 29.5, 55],
+        "group": "ジャングル"
+    },
+    "jungle_hanging_sign": {
+        "name": "ジャングルの吊り看板",
+        "locate": [92, 29.5, 55],
+        "group": "ジャングル"
+    },
+    "jungle_fence": {
+        "name": "ジャングルのフェンス",
+        "locate": [92, 29.5, 55],
+        "group": "ジャングル"
+    },
+    "jungle_fence_gate": {
+        "name": "ジャングルのフェンスゲート",
+        "locate": [92, 29.5, 55],
+        "group": "ジャングル"
+    },
+    "jungle_trapdoor": {
+        "name": "ジャングルのトラップドア",
+        "locate": [92, 29.5, 55],
+        "group": "ジャングル"
+    },
+    "jungle_door": {
+        "name": "ジャングルのドア",
+        "locate": [92, 29.5, 55],
+        "group": "ジャングル"
+    },
+    "jungle_leaves": {
+        "name": "ジャングルの葉",
+        "locate": [92, 29.5, 56],
+        "group": "ジャングル"
+    },
+    "jungle_sapling": {
+        "name": "ジャングルの苗木",
+        "locate": [92, 29.5, 57],
+        "group": "ジャングル"
+    },
+    "bamboo_block": {
+        "name": "竹ブロック",
+        "locate": [91, 29.5, 62],
+        "group": "竹"
+    },
+    "stripped_bamboo_block": {
+        "name": "表皮を剥いだ竹ブロック",
+        "locate": [92, 29.5, 63],
+        "group": "竹"
+    },
+    "bamboo_planks": {
+        "name": "竹の板材",
+        "locate": [92, 29.5, 64],
+        "group": "竹"
+    },
+    "bamboo_stairs": {
+        "name": "竹の階段",
+        "locate": [92, 29.5, 65],
+        "group": "竹"
+    },
+    "bamboo_slab": {
+        "name": "竹のハーフブロック",
+        "locate": [92, 29.5, 65],
+        "group": "竹"
+    },
+    "bamboo_sign": {
+        "name": "竹の看板",
+        "locate": [92, 29.5, 66],
+        "group": "竹"
+    },
+    "bamboo_hanging_sign": {
+        "name": "竹の吊り看板",
+        "locate": [92, 29.5, 66],
+        "group": "竹"
+    },
+    "bamboo_fence": {
+        "name": "竹のフェンス",
+        "locate": [92, 29.5, 66],
+        "group": "竹"
+    },
+    "bamboo_fence_gate": {
+        "name": "竹のフェンスゲート",
+        "locate": [92, 29.5, 66],
+        "group": "竹"
+    },
+    "bamboo_trapdoor": {
+        "name": "竹のトラップドア",
+        "locate": [92, 29.5, 66],
+        "group": "竹"
+    },
+    "bamboo_door": {
+        "name": "竹のドア",
+        "locate": [92, 29.5, 66],
+        "group": "竹"
+    },
+    "bamboo_mosaic": {
+        "name": "竹細工",
+        "locate": [92, 29.5, 67],
+        "group": "竹"
+    },
+    "bamboo_mosaic_slab": {
+        "name": "竹細工のハーフブロック",
+        "locate": [92, 29.5, 68],
+        "group": "竹"
+    },
+    "bamboo_mosaic_stairs": {
+        "name": "竹細工の階段",
+        "locate": [92, 29.5, 68],
+        "group": "竹"
+    },
+    "twisting_vines": {
+        "name": "ねじれツタ",
+        "locate": [92, 29.5, 68],
+        "group": "歪んだ幹"
+    },
+    "warped_roots": {
+        "name": "歪んだ根",
+        "locate": [91, 29.5, 66],
+        "group": "歪んだ幹"
+    },
+    "nether_sprouts": {
+        "name": "ネザースプラウト",
+        "locate": [91, 29.5, 66],
+        "group": "歪んだ幹"
+    },
+    "warped_nylium": {
+        "name": "歪んだナイリウム",
+        "locate": [91, 29.5, 65],
+        "group": "歪んだ幹"
+    },
+    "warped_fungus": {
+        "name": "歪んだキノコ",
+        "locate": [91, 29.5, 64],
+        "group": "歪んだ幹"
+    },
+    "warped_sign": {
+        "name": "歪んだ看板",
+        "locate": [92, 29.5, 60],
+        "group": "歪んだ幹"
+    },
+    "warped_hanging_sign": {
+        "name": "歪んだ吊り看板",
+        "locate": [92, 29.5, 60],
+        "group": "歪んだ幹"
+    },
+    "warped_fence": {
+        "name": "歪んだフェンス",
+        "locate": [92, 29.5, 60],
+        "group": "歪んだ幹"
+    },
+    "warped_fence_gate": {
+        "name": "歪んだフェンスゲート",
+        "locate": [92, 29.5, 60],
+        "group": "歪んだ幹"
+    },
+    "warped_trapdoor": {
+        "name": "歪んだトラップドア",
+        "locate": [92, 29.5, 59],
+        "group": "歪んだ幹"
+    },
+    "warped_door": {
+        "name": "歪んだドア",
+        "locate": [92, 29.5, 59],
+        "group": "歪んだ幹"
+    },
+    "warped_slab": {
+        "name": "歪んだハーフブロック",
+        "locate": [92, 29.5, 59],
+        "group": "歪んだ幹"
+    },
+    "warped_stairs": {
+        "name": "歪んだ階段",
+        "locate": [92, 29.5, 59],
+        "group": "歪んだ幹"
+    },
+    "warped_planks": {
+        "name": "歪んだ板材",
+        "locate": [92, 29.5, 58],
+        "group": "歪んだ幹"
+    },
+    "warped_stem": {
+        "name": "歪んだ幹",
+        "locate": [92, 29.5, 57],
+        "group": "歪んだ幹"
+    },
+    "stripped_warped_stem": {
+        "name": "表皮を剥いだ歪んだ幹",
+        "locate": [92, 29.5, 55],
+        "group": "歪んだ幹"
+    },
+    "stripped_warped_hyphae": {
+        "name": "表皮を剥いだ歪んだ菌糸",
+        "locate": [92, 29.5, 55],
+        "group": "歪んだ幹"
+    },
+    "warped_hyphae": {
+        "name": "歪んだ菌糸",
+        "locate": [92, 29.5, 55],
+        "group": "歪んだ幹"
+    },
+    "weeping_vines": {
+        "name": "しだれツタ",
+        "locate": [91, 29.5, 53],
+        "group": "真紅の幹"
+    },
+    "crimson_roots": {
+        "name": "真紅の根",
+        "locate": [91, 29.5, 52],
+        "group": "真紅の幹"
+    },
+    "crimson_nylium": {
+        "name": "真紅のナイリウム",
+        "locate": [91, 29.5, 51],
+        "group": "真紅の幹"
+    },
+    "crimson_fungus": {
+        "name": "真紅のキノコ",
+        "locate": [91, 29.5, 50],
+        "group": "真紅の幹"
+    },
+    "crimson_trapdoor": {
+        "name": "真紅のトラップドア",
+        "locate": [92, 29.5, 46],
+        "group": "真紅の幹"
+    },
+    "crimson_door": {
+        "name": "真紅のドア",
+        "locate": [92, 29.5, 46],
+        "group": "真紅の幹"
+    },
+    "crimson_fence": {
+        "name": "真紅のフェンス",
+        "locate": [92, 29.5, 46],
+        "group": "真紅の幹"
+    },
+    "crimson_fence_gate": {
+        "name": "真紅のフェンスゲート",
+        "locate": [92, 29.5, 46],
+        "group": "真紅の幹"
+    },
+    "crimson_sign": {
+        "name": "真紅の看板",
+        "locate": [92, 29.5, 46],
+        "group": "真紅の幹"
+    },
+    "crimson_hanging_sign": {
+        "name": "真紅の吊り看板",
+        "locate": [92, 29.5, 46],
+        "group": "真紅の幹"
+    },
+    "crimson_slab": {
+        "name": "真紅のハーフブロック",
+        "locate": [92, 29.5, 45],
+        "group": "真紅の幹"
+    },
+    "crimson_stairs": {
+        "name": "真紅の階段",
+        "locate": [92, 29.5, 45],
+        "group": "真紅の幹"
+    },
+    "crimson_planks": {
+        "name": "真紅の板材",
+        "locate": [92, 29.5, 44],
+        "group": "真紅の幹"
+    },
+    "crimson_stem": {
+        "name": "真紅の幹",
+        "locate": [92, 29.5, 43],
+        "group": "真紅の幹"
+    },
+    "stripped_crimson_stem": {
+        "name": "表皮を剥いだ真紅の幹",
+        "locate": [92, 29.5, 42],
+        "group": "真紅の幹"
+    },
+    "stripped_crimson_hyphae": {
+        "name": "表皮を剥いだ真紅の菌糸",
+        "locate": [92, 29.5, 42],
+        "group": "真紅の幹"
+    },
+    "crimson_hyphae": {
+        "name": "真紅の菌糸",
+        "locate": [92, 29.5, 42],
+        "group": "真紅の幹"
+    },
+    "stick": {
+        "name": "棒",
+        "locate": [84, 29.5, 42],
+        "group": "棒"
+    },
+    "ladder": {
+        "name": "はしご",
+        "locate": [84, 29.5, 47],
+        "group": "はしご"
+    },
+    "item_frame": {
+        "name": "額縁",
+        "locate": [84, 29.5, 50],
+        "group": "額縁"
+    },
+    "glow_item_frame": {
+        "name": "輝く額縁",
+        "locate": [84, 29.5, 50],
+        "group": "額縁"
+    },
+    "painting": {
+        "name": "絵画",
+        "locate": [84, 29.5, 52],
+        "group": "額縁"
+    },
+    "dandelion": {
+        "name": "タンポポ",
+        "locate": [84, 29.5, 54],
+        "group": "花"
+    },
+    "poppy": {
+        "name": "ポピー",
+        "locate": [84, 29.5, 54],
+        "group": "花"
+    },
+    "allium": {
+        "name": "アリウム",
+        "locate": [84, 29.5, 54],
+        "group": "花"
+    },
+    "orange_tulip": {
+        "name": "橙色のチューリップ",
+        "locate": [84, 29.5, 55],
+        "group": "花"
+    },
+    "red_tulip": {
+        "name": "赤色のチューリップ",
+        "locate": [84, 29.5, 55],
+        "group": "花"
+    },
+    "azure_bluet": {
+        "name": "ヒナソウ",
+        "locate": [84, 29.5, 55],
+        "group": "花"
+    },
+    "white_tulip": {
+        "name": "白色のチューリップ",
+        "locate": [84, 29.5, 56],
+        "group": "花"
+    },
+    "pink_tulip": {
+        "name": "桃色のチューリップ",
+        "locate": [84, 29.5, 56],
+        "group": "花"
+    },
+    "oxeye_daisy": {
+        "name": "フランスギク",
+        "locate": [84, 29.5, 56],
+        "group": "花"
+    },
+    "blue_orchid": {
+        "name": "ヒスイラン",
+        "locate": [84, 29.5, 57],
+        "group": "花"
+    },
+    "lily_of_the_valley": {
+        "name": "スズラン",
+        "locate": [84, 29.5, 57],
+        "group": "花"
+    },
+    "cornflower": {
+        "name": "ヤグルマギク",
+        "locate": [84, 29.5, 57],
+        "group": "花"
+    },
+    "sunflower": {
+        "name": "ヒマワリ",
+        "locate": [84, 29.5, 58],
+        "group": "花"
+    },
+    "lilac": {
+        "name": "ライラック",
+        "locate": [84, 29.5, 58],
+        "group": "花"
+    },
+    "wither_rose": {
+        "name": "ウィザーローズ",
+        "locate": [84, 29.5, 58],
+        "group": "花"
+    },
+    "flower_pot": {
+        "name": "植木鉢",
+        "locate": [84, 29.5, 58],
+        "group": "花"
+    },
+    "peony": {
+        "name": "ボタン",
+        "locate": [84, 29.5, 58],
+        "group": "花"
+    },
+    "rose_bush": {
+        "name": "バラの低木",
+        "locate": [84, 29.5, 58],
+        "group": "花"
+    },
+    "lily_pad": {
+        "name": "スイレンの葉",
+        "locate": [84, 29.5, 50],
+        "group": "地上の植物"
+    },
+    "cactus": {
+        "name": "サボテン",
+        "locate": [84, 29.5, 48],
+        "group": "地上の植物"
+    },
+    "dead_bush": {
+        "name": "枯れ木",
+        "locate": [84, 29.5, 47],
+        "group": "地上の植物"
+    },
+    "glow_lichen": {
+        "name": "ヒカリゴケ",
+        "locate": [84, 29.5, 46],
+        "group": "地上の植物"
+    },
+    "vine": {
+        "name": "ツタ",
+        "locate": [84, 29.5, 45],
+        "group": "地上の植物"
+    },
+    "sugar_cane": {
+        "name": "サトウキビ",
+        "locate": [85, 29.5, 42],
+        "group": "地上の植物"
+    },
+    "hay_block": {
+        "name": "干草の俵",
+        "locate": [77, 29.5, 41],
+        "group": "作物"
+    },
+    "wheat_seeds": {
+        "name": "小麦の種",
+        "locate": [77, 29.5, 42],
+        "group": "作物"
+    },
+    "poisonous_potato": {
+        "name": "青くなったジャガイモ",
+        "locate": [77, 29.5, 44],
+        "group": "作物"
+    },
+    "beetroot": {
+        "name": "ビートルート",
+        "locate": [77, 29.5, 50],
+        "group": "作物"
+    },
+    "spore_blossom": {
+        "name": "胞子の花",
+        "locate": [78, 29.5, 54],
+        "group": "苔類"
+    },
+    "flowering_azalea_leaves": {
+        "name": "開花したツツジの葉",
+        "locate": [78, 29.5, 53],
+        "group": "苔類"
+    },
+    "flowering_azalea": {
+        "name": "開花したツツジ",
+        "locate": [78, 29.5, 53],
+        "group": "苔類"
+    },
+    "hanging_roots": {
+        "name": "垂れ根",
+        "locate": [78, 29.5, 53],
+        "group": "苔類"
+    },
+    "azalea_leaves": {
+        "name": "ツツジの葉",
+        "locate": [78, 29.5, 52],
+        "group": "苔類"
+    },
+    "azalea": {
+        "name": "ツツジ",
+        "locate": [78, 29.5, 52],
+        "group": "苔類"
+    },
+    "big_dripleaf": {
+        "name": "大きなドリップリーフ",
+        "locate": [78, 29.5, 52],
+        "group": "苔類"
+    },
+    "small_dripleaf": {
+        "name": "小さなドリップリーフ",
+        "locate": [78, 29.5, 52],
+        "group": "苔類"
+    },
+    "moss_carpet": {
+        "name": "苔のカーペット",
+        "locate": [78, 29.5, 51],
+        "group": "苔類"
+    },
+    "moss_block": {
+        "name": "苔ブロック",
+        "locate": [78, 29.5, 50],
+        "group": "苔類"
+    },
+    "cocoa_beans": {
+        "name": "カカオ豆",
+        "locate": [78, 29.5, 48],
+        "group": "作物"
+    },
+    "melon": {
+        "name": "スイカ",
+        "locate": [78, 29.5, 45],
+        "group": "作物"
+    },
+    "melon_seeds": {
+        "name": "スイカの種",
+        "locate": [78, 29.5, 44],
+        "group": "作物"
+    },
+    "pumpkin": {
+        "name": "カボチャ",
+        "locate": [78, 29.5, 42],
+        "group": "作物"
+    },
+    "carved_pumpkin": {
+        "name": "くり抜かれたカボチャ",
+        "locate": [78, 29.5, 42],
+        "group": "作物"
+    },
+    "pumpkin_seeds": {
+        "name": "カボチャの種",
+        "locate": [78, 29.5, 42],
+        "group": "作物"
+    },
+    "kelp": {
+        "name": "コンブ",
+        "locate": [71, 29.5, 41],
+        "group": "海産物"
+    },
+    "dried_kelp": {
+        "name": "乾燥した昆布",
+        "locate": [71, 29.5, 41],
+        "group": "海産物"
+    },
+    "axolotl_bucket": {
+        "name": "ウーパールーパー入りバケツ",
+        "locate": [70, 29.5, 44],
+        "group": "海産物"
+    },
+    "tadpole_bucket": {
+        "name": "オタマジャクシ入りバケツ",
+        "locate": [70, 29.5, 44],
+        "group": "海産物"
+    },
+    "tropical_fish_bucket": {
+        "name": "熱帯魚入りバケツ",
+        "locate": [70, 29.5, 44],
+        "group": "海産物"
+    },
+    "cod_bucket": {
+        "name": "タラ入りバケツ",
+        "locate": [70, 29.5, 44],
+        "group": "海産物"
+    },
+    "salmon_bucket": {
+        "name": "サケ入りバケツ",
+        "locate": [70, 29.5, 44],
+        "group": "海産物"
+    },
+    "pufferfish_bucket": {
+        "name": "フグ入りバケツ",
+        "locate": [70, 29.5, 44],
+        "group": "海産物"
+    },
+    "seagrass": {
+        "name": "海草",
+        "locate": [70, 29.5, 45],
+        "group": "海産物"
+    },
+    "sea_pickle": {
+        "name": "シーピクルス",
+        "locate": [70, 29.5, 47],
+        "group": "海産物"
+    },
+    "horn_coral_block": {
+        "name": "シカツノサンゴブロック",
+        "locate": [70, 29.5, 50],
+        "group": "海産物"
+    },
+    "dead_horn_coral_block": {
+        "name": "死んだシカツノサンゴブロック",
+        "locate": [70, 29.5, 50],
+        "group": "海産物"
+    },
+    "horn_coral": {
+        "name": "シカツノサンゴ",
+        "locate": [70, 29.5, 51],
+        "group": "海産物"
+    },
+    "dead_horn_coral": {
+        "name": "死んだシカツノサンゴ",
+        "locate": [70, 29.5, 51],
+        "group": "海産物"
+    },
+    "horn_coral_fan": {
+        "name": "シカツノウチワサンゴ",
+        "locate": [70, 29.5, 51],
+        "group": "海産物"
+    },
+    "fire_coral_block": {
+        "name": "ミレポラサンゴブロック",
+        "locate": [70, 29.5, 54],
+        "group": "海産物"
+    },
+    "dead_fire_coral_block": {
+        "name": "死んだミレポラサンゴブロック",
+        "locate": [70, 29.5, 54],
+        "group": "海産物"
+    },
+    "fire_coral": {
+        "name": "ミレポラサンゴ",
+        "locate": [70, 29.5, 54],
+        "group": "海産物"
+    },
+    "fire_coral_fan": {
+        "name": "ミレポラウチワサンゴ",
+        "locate": [70, 29.5, 56],
+        "group": "海産物"
+    },
+    "dead_fire_coral_fan": {
+        "name": "死んだミレポラウチワサンゴ",
+        "locate": [70, 29.5, 56],
+        "group": "海産物"
+    },
+    "brain_coral_block": {
+        "name": "ノウサンゴブロック",
+        "locate": [70, 29.5, 58],
+        "group": "海産物"
+    },
+    "dead_brain_coral_block": {
+        "name": "死んだノウサンゴブロック",
+        "locate": [70, 29.5, 58],
+        "group": "海産物"
+    },
+    "brain_coral": {
+        "name": "ノウサンゴ",
+        "locate": [70, 29.5, 58],
+        "group": "海産物"
+    },
+    "brain_coral_fan": {
+        "name": "ノウウチワサンゴ",
+        "locate": [70, 29.5, 60],
+        "group": "海産物"
+    },
+    "bubble_coral_block": {
+        "name": "ミズタマサンゴブロック",
+        "locate": [70, 29.5, 62],
+        "group": "海産物"
+    },
+    "dead_bubble_coral_block": {
+        "name": "死んだミズタマサンゴブロック",
+        "locate": [70, 29.5, 62],
+        "group": "海産物"
+    },
+    "bubble_coral": {
+        "name": "ミズタマサンゴ",
+        "locate": [70, 29.5, 62],
+        "group": "海産物"
+    },
+    "bubble_coral_fan": {
+        "name": "ミズタマウチワサンゴ",
+        "locate": [70, 29.5, 64],
+        "group": "海産物"
+    },
+    "tube_coral_block": {
+        "name": "クダサンゴブロック",
+        "locate": [70, 29.5, 66],
+        "group": "海産物"
+    },
+    "dead_tube_coral_block": {
+        "name": "死んだクダサンゴブロック",
+        "locate": [70, 29.5, 66],
+        "group": "海産物"
+    },
+    "tube_coral": {
+        "name": "クダサンゴ",
+        "locate": [70, 29.5, 66],
+        "group": "海産物"
+    },
+    "tube_coral_fan": {
+        "name": "クダウチワサンゴ",
+        "locate": [70, 29.5, 66],
+        "group": "海産物"
+    },
+    "pitcher_plant": {
+        "name": "ウツボカズラ",
+        "locate": [71, 29.5, 56],
+        "group": "その他植物"
+    },
+    "pitcher_pod": {
+        "name": "ウツボカズラのさや",
+        "locate": [71, 29.5, 56],
+        "group": "その他植物"
+    },
+    "torchflower": {
+        "name": "トーチフラワー",
+        "locate": [71, 29.5, 56],
+        "group": "その他植物"
+    },
+    "torchflower_seeds": {
+        "name": "トーチフラワーの種",
+        "locate": [71, 29.5, 56],
+        "group": "その他植物"
+    },
+    "sniffer_egg": {
+        "name": "スニッファーの卵",
+        "locate": [71, 29.5, 56],
+        "group": "その他植物"
+    },
+    "short_grass": {
+        "name": "背の低い草",
+        "locate": [71, 29.5, 53],
+        "group": "その他植物"
+    },
+    "tall_grass": {
+        "name": "背の高い草",
+        "locate": [71, 29.5, 53],
+        "group": "その他植物"
+    },
+    "fern": {
+        "name": "シダ",
+        "locate": [71, 29.5, 53],
+        "group": "その他植物"
+    },
+    "large_fern": {
+        "name": "大きなシダ",
+        "locate": [71, 29.5, 53],
+        "group": "その他植物"
+    },
+    "bee_nest": {
+        "name": "ミツバチの巣",
+        "locate": [71, 29.5, 51],
+        "group": "その他植物"
+    },
+    "beehive": {
+        "name": "養蜂箱",
+        "locate": [71, 29.5, 51],
+        "group": "その他植物"
+    },
+    "honeycomb": {
+        "name": "ハニカム",
+        "locate": [70, 29.5, 48],
+        "group": "その他植物"
+    },
+    "honeycomb_block": {
+        "name": "ハニカムブロック",
+        "locate": [70, 29.5, 48],
+        "group": "その他植物"
+    },
+    "red_mushroom_block": {
+        "name": "赤色のキノコブロック",
+        "locate": [71, 29.5, 45],
+        "group": "その他植物"
+    },
+    "red_mushroom": {
+        "name": "赤色のキノコ",
+        "locate": [71, 29.5, 45],
+        "group": "その他植物"
+    },
+    "brown_mushroom_block": {
+        "name": "茶色のキノコブロック",
+        "locate": [71, 29.5, 44],
+        "group": "その他植物"
+    },
+    "mushroom_stem": {
+        "name": "キノコの柄",
+        "locate": [71, 29.5, 45],
+        "group": "その他植物"
+    },
+    "popped_chorus_fruit": {
+        "name": "焼いたコーラスフルーツ",
+        "locate": [71, 29.5, 42],
+        "group": "その他植物"
+    },
+    "chorus_flower": {
+        "name": "コーラスフラワー",
+        "locate": [71, 29.5, 42],
+        "group": "その他植物"
+    },
+    "cooked_porkchop": {
+        "name": "焼き豚",
+        "locate": [63, 29.5, 42],
+        "group": "食料"
+    },
+    "cooked_mutton": {
+        "name": "焼き羊肉",
+        "locate": [64, 29.5, 43],
+        "group": "食料"
+    },
+    "cooked_chicken": {
+        "name": "焼き鳥",
+        "locate": [63, 29.5, 44],
+        "group": "食料"
+    },
+    "cooked_rabbit": {
+        "name": "焼き兎肉",
+        "locate": [63, 29.5, 45],
+        "group": "食料"
+    },
+    "beef": {
+        "name": "生の牛肉",
+        "locate": [63, 29.5, 47],
+        "group": "食料"
+    },
+    "porkchop": {
+        "name": "生の豚肉",
+        "locate": [63, 29.5, 48],
+        "group": "食料"
+    },
+    "mutton": {
+        "name": "生の羊肉",
+        "locate": [63, 29.5, 49],
+        "group": "食料"
+    },
+    "chicken": {
+        "name": "生の鶏肉",
+        "locate": [63, 29.5, 50],
+        "group": "食料"
+    },
+    "rabbit": {
+        "name": "生の兎肉",
+        "locate": [63, 29.5, 51],
+        "group": "食料"
+    },
+    "cooked_salmon": {
+        "name": "焼き鮭",
+        "locate": [63, 29.5, 53],
+        "group": "食料"
+    },
+    "cooked_cod": {
+        "name": "焼き鱈",
+        "locate": [63, 29.5, 54],
+        "group": "食料"
+    },
+    "salmon": {
+        "name": "生鮭",
+        "locate": [63, 29.5, 55],
+        "group": "食料"
+    },
+    "tropical_fish": {
+        "name": "熱帯魚",
+        "locate": [63, 29.5, 58],
+        "group": "食料"
+    },
+    "milk_bucket": {
+        "name": "ミルク入りバケツ",
+        "locate": [64, 29.5, 52],
+        "group": "食料"
+    },
+    "pumpkin_pie": {
+        "name": "パンプキンパイ",
+        "locate": [63, 29.5, 51],
+        "group": "食料"
+    },
+    "cake": {
+        "name": "ケーキ",
+        "locate": [63, 29.5, 51],
+        "group": "食料"
+    },
+    "cookie": {
+        "name": "クッキー",
+        "locate": [63, 29.5, 50],
+        "group": "食料"
+    },
+    "beetroot_soup": {
+        "name": "ビートルートスープ",
+        "locate": [64, 29.5, 48],
+        "group": "食料"
+    },
+    "mushroom_stew": {
+        "name": "キノコシチュー",
+        "locate": [64, 29.5, 47],
+        "group": "食料"
+    },
+    "rabbit_stew": {
+        "name": "ウサギシチュー",
+        "locate": [64, 29.5, 47],
+        "group": "食料"
+    },
+    "suspicious_stew": {
+        "name": "怪しげなシチュー",
+        "locate": [64, 29.5, 47],
+        "group": "食料"
+    },
+    "bowl": {
+        "name": "ボウル",
+        "locate": [64, 29.5, 47],
+        "group": "食料"
+    },
+    "bread": {
+        "name": "パン",
+        "locate": [64, 29.5, 44],
+        "group": "食料"
+    },
+    "guster_banner_pattern": {
+        "name": "旗の模様",
+        "locate": [49, 29.5, 10],
+        "group": "旗"
+    },
+    "flow_banner_pattern": {
+        "name": "旗の模様",
+        "locate": [49, 29.5, 10],
+        "group": "旗"
+    },
+    "mojang_banner_pattern": {
+        "name": "旗の模様",
+        "locate": [50, 29.5, 10],
+        "group": "旗"
+    },
+    "skull_banner_pattern": {
+        "name": "旗の模様",
+        "locate": [50, 29.5, 10],
+        "group": "旗"
+    },
+    "globe_banner_pattern": {
+        "name": "旗の模様",
+        "locate": [50, 29.5, 11],
+        "group": "旗"
+    },
+    "creeper_banner_pattern": {
+        "name": "旗の模様",
+        "locate": [50, 29.5, 12],
+        "group": "旗"
+    },
+    "piglin_banner_pattern": {
+        "name": "旗の模様",
+        "locate": [50, 29.5, 13],
+        "group": "旗"
+    },
+    "flower_banner_pattern": {
+        "name": "旗の模様",
+        "locate": [50, 29.5, 14],
+        "group": "旗"
+    },
+    "gray_banner": {
+        "name": "灰色の旗",
+        "locate": [50, 29.5, 17],
+        "group": "旗"
+    },
+    "brown_banner": {
+        "name": "茶色の旗",
+        "locate": [50, 29.5, 20],
+        "group": "旗"
+    },
+    "pink_banner": {
+        "name": "桃色の旗",
+        "locate": [50, 29.5, 21],
+        "group": "旗"
+    },
+    "cyan_banner": {
+        "name": "青緑色の旗",
+        "locate": [50, 29.5, 27],
+        "group": "旗"
+    },
+    "red_glazed_terracotta": {
+        "name": "赤色の彩釉テラコッタ",
+        "locate": [56, 29.5, 27],
+        "group": "彩釉テラコッタ"
+    },
+    "orange_glazed_terracotta": {
+        "name": "橙色の彩釉テラコッタ",
+        "locate": [56, 29.5, 26],
+        "group": "彩釉テラコッタ"
+    },
+    "yellow_glazed_terracotta": {
+        "name": "黄色の彩釉テラコッタ",
+        "locate": [56, 29.5, 25],
+        "group": "彩釉テラコッタ"
+    },
+    "lime_glazed_terracotta": {
+        "name": "黄緑色の彩釉テラコッタ",
+        "locate": [56, 29.5, 24],
+        "group": "彩釉テラコッタ"
+    },
+    "green_glazed_terracotta": {
+        "name": "緑色の彩釉テラコッタ",
+        "locate": [56, 29.5, 23],
+        "group": "彩釉テラコッタ"
+    },
+    "cyan_glazed_terracotta": {
+        "name": "青緑色の彩釉テラコッタ",
+        "locate": [56, 29.5, 22],
+        "group": "彩釉テラコッタ"
+    },
+    "light_blue_glazed_terracotta": {
+        "name": "空色の彩釉テラコッタ",
+        "locate": [56, 29.5, 21],
+        "group": "彩釉テラコッタ"
+    },
+    "blue_glazed_terracotta": {
+        "name": "青色の彩釉テラコッタ",
+        "locate": [56, 29.5, 20],
+        "group": "彩釉テラコッタ"
+    },
+    "purple_glazed_terracotta": {
+        "name": "紫色の彩釉テラコッタ",
+        "locate": [56, 29.5, 19],
+        "group": "彩釉テラコッタ"
+    },
+    "magenta_glazed_terracotta": {
+        "name": "赤紫色の彩釉テラコッタ",
+        "locate": [56, 29.5, 18],
+        "group": "彩釉テラコッタ"
+    },
+    "pink_glazed_terracotta": {
+        "name": "桃色の彩釉テラコッタ",
+        "locate": [56, 29.5, 17],
+        "group": "彩釉テラコッタ"
+    },
+    "brown_glazed_terracotta": {
+        "name": "茶色の彩釉テラコッタ",
+        "locate": [56, 29.5, 16],
+        "group": "彩釉テラコッタ"
+    },
+    "white_glazed_terracotta": {
+        "name": "白色の彩釉テラコッタ",
+        "locate": [56, 29.5, 15],
+        "group": "彩釉テラコッタ"
+    },
+    "light_gray_glazed_terracotta": {
+        "name": "薄灰色の彩釉テラコッタ",
+        "locate": [56, 29.5, 14],
+        "group": "彩釉テラコッタ"
+    },
+    "gray_glazed_terracotta": {
+        "name": "灰色の彩釉テラコッタ",
+        "locate": [56, 29.5, 13],
+        "group": "彩釉テラコッタ"
+    },
+    "black_glazed_terracotta": {
+        "name": "黒色の彩釉テラコッタ",
+        "locate": [56, 29.5, 12],
+        "group": "彩釉テラコッタ"
+    },
+    "black_terracotta": {
+        "name": "黒色のテラコッタ",
+        "locate": [57, 29.5, 12],
+        "group": "テラコッタ"
+    },
+    "gray_terracotta": {
+        "name": "灰色のテラコッタ",
+        "locate": [57, 29.5, 13],
+        "group": "テラコッタ"
+    },
+    "light_gray_terracotta": {
+        "name": "薄灰色のテラコッタ",
+        "locate": [57, 29.5, 15],
+        "group": "テラコッタ"
+    },
+    "white_terracotta": {
+        "name": "白色のテラコッタ",
+        "locate": [57, 29.5, 15],
+        "group": "テラコッタ"
+    },
+    "brown_terracotta": {
+        "name": "茶色のテラコッタ",
+        "locate": [57, 29.5, 16],
+        "group": "テラコッタ"
+    },
+    "pink_terracotta": {
+        "name": "桃色のテラコッタ",
+        "locate": [57, 29.5, 17],
+        "group": "テラコッタ"
+    },
+    "magenta_terracotta": {
+        "name": "赤紫色のテラコッタ",
+        "locate": [57, 29.5, 18],
+        "group": "テラコッタ"
+    },
+    "purple_terracotta": {
+        "name": "紫色のテラコッタ",
+        "locate": [57, 29.5, 19],
+        "group": "テラコッタ"
+    },
+    "blue_terracotta": {
+        "name": "青色のテラコッタ",
+        "locate": [57, 29.5, 20],
+        "group": "テラコッタ"
+    },
+    "light_blue_terracotta": {
+        "name": "空色のテラコッタ",
+        "locate": [57, 29.5, 21],
+        "group": "テラコッタ"
+    },
+    "cyan_terracotta": {
+        "name": "青緑色のテラコッタ",
+        "locate": [57, 29.5, 22],
+        "group": "テラコッタ"
+    },
+    "green_terracotta": {
+        "name": "緑色のテラコッタ",
+        "locate": [57, 29.5, 23],
+        "group": "テラコッタ"
+    },
+    "lime_terracotta": {
+        "name": "黄緑色のテラコッタ",
+        "locate": [57, 29.5, 24],
+        "group": "テラコッタ"
+    },
+    "yellow_terracotta": {
+        "name": "黄色のテラコッタ",
+        "locate": [57, 29.5, 25],
+        "group": "テラコッタ"
+    },
+    "orange_terracotta": {
+        "name": "橙色のテラコッタ",
+        "locate": [57, 29.5, 26],
+        "group": "テラコッタ"
+    },
+    "red_terracotta": {
+        "name": "赤色のテラコッタ",
+        "locate": [57, 29.5, 27],
+        "group": "テラコッタ"
+    },
+    "red_carpet": {
+        "name": "赤色のカーペット",
+        "locate": [63, 29.5, 30],
+        "group": "カーペット"
+    },
+    "orange_carpet": {
+        "name": "橙色のカーペット",
+        "locate": [63, 29.5, 30],
+        "group": "カーペット"
+    },
+    "yellow_carpet": {
+        "name": "黄色のカーペット",
+        "locate": [63, 29.5, 29],
+        "group": "カーペット"
+    },
+    "lime_carpet": {
+        "name": "黄緑色のカーペット",
+        "locate": [63, 29.5, 28],
+        "group": "カーペット"
+    },
+    "green_carpet": {
+        "name": "緑色のカーペット",
+        "locate": [63, 29.5, 27],
+        "group": "カーペット"
+    },
+    "cyan_carpet": {
+        "name": "青緑色のカーペット",
+        "locate": [63, 29.5, 26],
+        "group": "カーペット"
+    },
+    "light_blue_carpet": {
+        "name": "空色のカーペット",
+        "locate": [63, 29.5, 25],
+        "group": "カーペット"
+    },
+    "blue_carpet": {
+        "name": "青色のカーペット",
+        "locate": [63, 29.5, 24],
+        "group": "カーペット"
+    },
+    "purple_carpet": {
+        "name": "紫色のカーペット",
+        "locate": [63, 29.5, 23],
+        "group": "カーペット"
+    },
+    "magenta_carpet": {
+        "name": "赤紫色のカーペット",
+        "locate": [63, 29.5, 22],
+        "group": "カーペット"
+    },
+    "pink_carpet": {
+        "name": "桃色のカーペット",
+        "locate": [63, 29.5, 20],
+        "group": "カーペット"
+    },
+    "brown_carpet": {
+        "name": "茶色のカーペット",
+        "locate": [63, 29.5, 20],
+        "group": "カーペット"
+    },
+    "white_carpet": {
+        "name": "白色のカーペット",
+        "locate": [63, 29.5, 19],
+        "group": "カーペット"
+    },
+    "light_gray_carpet": {
+        "name": "薄灰色のカーペット",
+        "locate": [63, 29.5, 18],
+        "group": "カーペット"
+    },
+    "gray_carpet": {
+        "name": "灰色のカーペット",
+        "locate": [63, 29.5, 17],
+        "group": "カーペット"
+    },
+    "black_carpet": {
+        "name": "黒色のカーペット",
+        "locate": [63, 29.5, 16],
+        "group": "カーペット"
+    },
+    "black_wool": {
+        "name": "黒色の羊毛",
+        "locate": [64, 29.5, 16],
+        "group": "羊毛"
+    },
+    "gray_wool": {
+        "name": "灰色の羊毛",
+        "locate": [64, 29.5, 17],
+        "group": "羊毛"
+    },
+    "light_gray_wool": {
+        "name": "薄灰色の羊毛",
+        "locate": [64, 29.5, 18],
+        "group": "羊毛"
+    },
+    "white_wool": {
+        "name": "白色の羊毛",
+        "locate": [64, 29.5, 19],
+        "group": "羊毛"
+    },
+    "brown_wool": {
+        "name": "茶色の羊毛",
+        "locate": [64, 29.5, 20],
+        "group": "羊毛"
+    },
+    "pink_wool": {
+        "name": "桃色の羊毛",
+        "locate": [64, 29.5, 21],
+        "group": "羊毛"
+    },
+    "magenta_wool": {
+        "name": "赤紫色の羊毛",
+        "locate": [64, 29.5, 22],
+        "group": "羊毛"
+    },
+    "purple_wool": {
+        "name": "紫色の羊毛",
+        "locate": [64, 29.5, 23],
+        "group": "羊毛"
+    },
+    "blue_wool": {
+        "name": "青色の羊毛",
+        "locate": [64, 29.5, 24],
+        "group": "羊毛"
+    },
+    "light_blue_wool": {
+        "name": "空色の羊毛",
+        "locate": [64, 29.5, 25],
+        "group": "羊毛"
+    },
+    "cyan_wool": {
+        "name": "青緑色の羊毛",
+        "locate": [64, 29.5, 26],
+        "group": "羊毛"
+    },
+    "green_wool": {
+        "name": "緑色の羊毛",
+        "locate": [64, 29.5, 27],
+        "group": "羊毛"
+    },
+    "lime_wool": {
+        "name": "黄緑色の羊毛",
+        "locate": [64, 29.5, 28],
+        "group": "羊毛"
+    },
+    "yellow_wool": {
+        "name": "黄色の羊毛",
+        "locate": [64, 29.5, 29],
+        "group": "羊毛"
+    },
+    "orange_wool": {
+        "name": "橙色の羊毛",
+        "locate": [64, 29.5, 30],
+        "group": "羊毛"
+    },
+    "glass_pane": {
+        "name": "ガラス板",
+        "locate": [71, 29.5, 30],
+        "group": "板ガラス"
+    },
+    "glass_bottle": {
+        "name": "ガラス瓶",
+        "locate": [71, 29.5, 26],
+        "group": "板ガラス"
+    },
+    "red_stained_glass_pane": {
+        "name": "赤色の色付きガラス板",
+        "locate": [71, 29.5, 24],
+        "group": "板ガラス"
+    },
+    "orange_stained_glass_pane": {
+        "name": "橙色の色付きガラス板",
+        "locate": [71, 29.5, 23],
+        "group": "板ガラス"
+    },
+    "yellow_stained_glass_pane": {
+        "name": "黄色の色付きガラス板",
+        "locate": [71, 29.5, 22],
+        "group": "板ガラス"
+    },
+    "lime_stained_glass_pane": {
+        "name": "黄緑色の色付きガラス板",
+        "locate": [71, 29.5, 21],
+        "group": "板ガラス"
+    },
+    "green_stained_glass_pane": {
+        "name": "緑色の色付きガラス板",
+        "locate": [71, 29.5, 20],
+        "group": "板ガラス"
+    },
+    "cyan_stained_glass_pane": {
+        "name": "青緑色の色付きガラス板",
+        "locate": [71, 29.5, 19],
+        "group": "板ガラス"
+    },
+    "light_blue_stained_glass_pane": {
+        "name": "空色の色付きガラス板",
+        "locate": [71, 29.5, 18],
+        "group": "板ガラス"
+    },
+    "blue_stained_glass_pane": {
+        "name": "青色の色付きガラス板",
+        "locate": [71, 29.5, 17],
+        "group": "板ガラス"
+    },
+    "magenta_stained_glass_pane": {
+        "name": "赤紫色の色付きガラス板",
+        "locate": [71, 29.5, 15],
+        "group": "板ガラス"
+    },
+    "purple_stained_glass_pane": {
+        "name": "紫色の色付きガラス板",
+        "locate": [71, 29.5, 15],
+        "group": "板ガラス"
+    },
+    "pink_stained_glass_pane": {
+        "name": "桃色の色付きガラス板",
+        "locate": [71, 29.5, 14],
+        "group": "板ガラス"
+    },
+    "brown_stained_glass_pane": {
+        "name": "茶色の色付きガラス板",
+        "locate": [71, 29.5, 13],
+        "group": "板ガラス"
+    },
+    "white_stained_glass_pane": {
+        "name": "白色の色付きガラス板",
+        "locate": [71, 29.5, 12],
+        "group": "板ガラス"
+    },
+    "light_gray_stained_glass_pane": {
+        "name": "薄灰色の色付きガラス板",
+        "locate": [71, 29.5, 11],
+        "group": "板ガラス"
+    },
+    "gray_stained_glass_pane": {
+        "name": "灰色の色付きガラス板",
+        "locate": [71, 29.5, 10],
+        "group": "板ガラス"
+    },
+    "black_stained_glass_pane": {
+        "name": "黒色の色付きガラス板",
+        "locate": [71, 29.5, 9],
+        "group": "板ガラス"
+    },
+    "black_stained_glass": {
+        "name": "黒色の色付きガラス",
+        "locate": [71, 29.5, 9],
+        "group": "ガラス"
+    },
+    "gray_stained_glass": {
+        "name": "灰色の色付きガラス",
+        "locate": [71, 29.5, 10],
+        "group": "ガラス"
+    },
+    "light_gray_stained_glass": {
+        "name": "薄灰色の色付きガラス",
+        "locate": [71, 29.5, 11],
+        "group": "ガラス"
+    },
+    "white_stained_glass": {
+        "name": "白色の色付きガラス",
+        "locate": [71, 29.5, 12],
+        "group": "ガラス"
+    },
+    "brown_stained_glass": {
+        "name": "茶色の色付きガラス",
+        "locate": [71, 29.5, 13],
+        "group": "ガラス"
+    },
+    "pink_stained_glass": {
+        "name": "桃色の色付きガラス",
+        "locate": [71, 29.5, 14],
+        "group": "ガラス"
+    },
+    "magenta_stained_glass": {
+        "name": "赤紫色の色付きガラス",
+        "locate": [71, 29.5, 15],
+        "group": "ガラス"
+    },
+    "purple_stained_glass": {
+        "name": "紫色の色付きガラス",
+        "locate": [71, 29.5, 17],
+        "group": "ガラス"
+    },
+    "blue_stained_glass": {
+        "name": "青色の色付きガラス",
+        "locate": [71, 29.5, 17],
+        "group": "ガラス"
+    },
+    "light_blue_stained_glass": {
+        "name": "空色の色付きガラス",
+        "locate": [71, 29.5, 18],
+        "group": "ガラス"
+    },
+    "cyan_stained_glass": {
+        "name": "青緑色の色付きガラス",
+        "locate": [71, 29.5, 20],
+        "group": "ガラス"
+    },
+    "green_stained_glass": {
+        "name": "緑色の色付きガラス",
+        "locate": [71, 29.5, 20],
+        "group": "ガラス"
+    },
+    "lime_stained_glass": {
+        "name": "黄緑色の色付きガラス",
+        "locate": [71, 29.5, 21],
+        "group": "ガラス"
+    },
+    "yellow_stained_glass": {
+        "name": "黄色の色付きガラス",
+        "locate": [71, 29.5, 22],
+        "group": "ガラス"
+    },
+    "orange_stained_glass": {
+        "name": "橙色の色付きガラス",
+        "locate": [71, 29.5, 23],
+        "group": "ガラス"
+    },
+    "red_stained_glass": {
+        "name": "赤色の色付きガラス",
+        "locate": [71, 29.5, 24],
+        "group": "ガラス"
+    },
+    "tinted_glass": {
+        "name": "遮光ガラス",
+        "locate": [70, 29.5, 26],
+        "group": "ガラス"
+    },
+    "red_concrete": {
+        "name": "赤色のコンクリート",
+        "locate": [78, 29.5, 31],
+        "group": "コンクリート"
+    },
+    "red_concrete_powder": {
+        "name": "赤色のコンクリートパウダー",
+        "locate": [78, 29.5, 31],
+        "group": "コンクリート"
+    },
+    "orange_concrete": {
+        "name": "橙色のコンクリート",
+        "locate": [78, 29.5, 30],
+        "group": "コンクリート"
+    },
+    "yellow_concrete": {
+        "name": "黄色のコンクリート",
+        "locate": [78, 29.5, 29],
+        "group": "コンクリート"
+    },
+    "lime_concrete": {
+        "name": "黄緑色のコンクリート",
+        "locate": [78, 29.5, 28],
+        "group": "コンクリート"
+    },
+    "green_concrete": {
+        "name": "緑色のコンクリート",
+        "locate": [78, 29.5, 27],
+        "group": "コンクリート"
+    },
+    "cyan_concrete": {
+        "name": "青緑色のコンクリート",
+        "locate": [78, 29.5, 26],
+        "group": "コンクリート"
+    },
+    "light_blue_concrete": {
+        "name": "空色のコンクリート",
+        "locate": [78, 29.5, 25],
+        "group": "コンクリート"
+    },
+    "blue_concrete": {
+        "name": "青色のコンクリート",
+        "locate": [78, 29.5, 24],
+        "group": "コンクリート"
+    },
+    "purple_concrete": {
+        "name": "紫色のコンクリート",
+        "locate": [78, 29.5, 23],
+        "group": "コンクリート"
+    },
+    "magenta_concrete": {
+        "name": "赤紫色のコンクリート",
+        "locate": [78, 29.5, 22],
+        "group": "コンクリート"
+    },
+    "pink_concrete": {
+        "name": "桃色のコンクリート",
+        "locate": [78, 29.5, 21],
+        "group": "コンクリート"
+    },
+    "brown_concrete": {
+        "name": "茶色のコンクリート",
+        "locate": [78, 29.5, 20],
+        "group": "コンクリート"
+    },
+    "white_concrete": {
+        "name": "白色のコンクリート",
+        "locate": [78, 29.5, 19],
+        "group": "コンクリート"
+    },
+    "gray_concrete": {
+        "name": "灰色のコンクリート",
+        "locate": [78, 29.5, 17],
+        "group": "コンクリート"
+    },
+    "light_gray_concrete": {
+        "name": "薄灰色のコンクリート",
+        "locate": [78, 29.5, 17],
+        "group": "コンクリート"
+    },
+    "bell": {
+        "name": "鐘",
+        "locate": [84, 29.5, 28],
+        "group": "機能ブロック"
+    },
+    "tnt": {
+        "name": "TNT",
+        "locate": [84, 29.5, 27],
+        "group": "機能ブロック"
+    },
+    "white_bed": {
+        "name": "白色のベッド",
+        "locate": [84, 29.5, 28],
+        "group": "機能ブロック"
+    },
+    "crafting_table": {
+        "name": "作業台",
+        "locate": [84, 29.5, 24],
+        "group": "機能ブロック"
+    },
+    "anvil": {
+        "name": "金床",
+        "locate": [84, 29.5, 24],
+        "group": "機能ブロック"
+    },
+    "chipped_anvil": {
+        "name": "欠けた金床",
+        "locate": [84, 29.5, 24],
+        "group": "機能ブロック"
+    },
+    "damaged_anvil": {
+        "name": "壊れかけの金床",
+        "locate": [84, 29.5, 24],
+        "group": "機能ブロック"
+    },
+    "bookshelf": {
+        "name": "本棚",
+        "locate": [84, 29.5, 22],
+        "group": "機能ブロック"
+    },
+    "chiseled_bookshelf": {
+        "name": "模様入りの本棚",
+        "locate": [84, 29.5, 22],
+        "group": "機能ブロック"
+    },
+    "ender_chest": {
+        "name": "エンダーチェスト",
+        "locate": [84, 29.5, 21],
+        "group": "機能ブロック"
+    },
+    "enchanting_table": {
+        "name": "エンチャントテーブル",
+        "locate": [84, 29.5, 19],
+        "group": "機能ブロック"
+    },
+    "composter": {
+        "name": "コンポスター",
+        "locate": [84, 29.5, 18],
+        "group": "機能ブロック"
+    },
+    "brewing_stand": {
+        "name": "醸造台",
+        "locate": [84, 29.5, 18],
+        "group": "機能ブロック"
+    },
+    "fletching_table": {
+        "name": "矢細工台",
+        "locate": [84, 29.5, 16],
+        "group": "機能ブロック"
+    },
+    "furnace": {
+        "name": "かまど",
+        "locate": [84, 29.5, 16],
+        "group": "機能ブロック"
+    },
+    "smoker": {
+        "name": "燻製器",
+        "locate": [84, 29.5, 16],
+        "group": "機能ブロック"
+    },
+    "blast_furnace": {
+        "name": "溶鉱炉",
+        "locate": [84, 29.5, 16],
+        "group": "機能ブロック"
+    },
+    "smithing_table": {
+        "name": "鍛冶台",
+        "locate": [85, 29.5, 15],
+        "group": "機能ブロック"
+    },
+    "cartography_table": {
+        "name": "製図台",
+        "locate": [85, 29.5, 15],
+        "group": "機能ブロック"
+    },
+    "lectern": {
+        "name": "書見台",
+        "locate": [85, 29.5, 13],
+        "group": "機能ブロック"
+    },
+    "grindstone": {
+        "name": "砥石",
+        "locate": [85, 29.5, 13],
+        "group": "機能ブロック"
+    },
+    "guster_pottery_sherd": {
+        "name": "風巻く者の壺の欠片",
+        "locate": [85, 29.5, 11],
+        "group": "機能ブロック"
+    },
+    "decorated_pot": {
+        "name": "飾り壺",
+        "locate": [85, 29.5, 10],
+        "group": "機能ブロック"
+    },
+    "angler_pottery_sherd": {
+        "name": "釣り人の壺の欠片",
+        "locate": [85, 29.5, 10],
+        "group": "機能ブロック"
+    },
+    "shelter_pottery_sherd": {
+        "name": "木陰の壺の欠片",
+        "locate": [85, 29.5, 10],
+        "group": "機能ブロック"
+    },
+    "snort_pottery_sherd": {
+        "name": "鼻を鳴らす動物の壺の欠片",
+        "locate": [85, 29.5, 10],
+        "group": "機能ブロック"
+    },
+    "blade_pottery_sherd": {
+        "name": "剣の壺の欠片",
+        "locate": [85, 29.5, 10],
+        "group": "機能ブロック"
+    },
+    "explorer_pottery_sherd": {
+        "name": "探検家の壺の欠片",
+        "locate": [85, 29.5, 10],
+        "group": "機能ブロック"
+    },
+    "mourner_pottery_sherd": {
+        "name": "哀悼者の壺の欠片",
+        "locate": [85, 29.5, 10],
+        "group": "機能ブロック"
+    },
+    "plenty_pottery_sherd": {
+        "name": "富の壺の欠片",
+        "locate": [85, 29.5, 10],
+        "group": "機能ブロック"
+    },
+    "burn_pottery_sherd": {
+        "name": "炎の壺の欠片",
+        "locate": [85, 29.5, 9],
+        "group": "機能ブロック"
+    },
+    "danger_pottery_sherd": {
+        "name": "脅威の壺の欠片",
+        "locate": [85, 29.5, 9],
+        "group": "機能ブロック"
+    },
+    "friend_pottery_sherd": {
+        "name": "友の壺の欠片",
+        "locate": [85, 29.5, 9],
+        "group": "機能ブロック"
+    },
+    "heart_pottery_sherd": {
+        "name": "心の壺の欠片",
+        "locate": [85, 29.5, 9],
+        "group": "機能ブロック"
+    },
+    "heartbreak_pottery_sherd": {
+        "name": "傷心の壺の欠片",
+        "locate": [85, 29.5, 9],
+        "group": "機能ブロック"
+    },
+    "howl_pottery_sherd": {
+        "name": "遠吠えの壺の欠片",
+        "locate": [85, 29.5, 9],
+        "group": "機能ブロック"
+    },
+    "sheaf_pottery_sherd": {
+        "name": "麦束の壺の欠片",
+        "locate": [85, 29.5, 9],
+        "group": "機能ブロック"
+    },
+    "archer_pottery_sherd": {
+        "name": "射手の壺の欠片",
+        "locate": [85, 29.5, 9],
+        "group": "機能ブロック"
+    },
+    "miner_pottery_sherd": {
+        "name": "鉱夫の壺の欠片",
+        "locate": [85, 29.5, 9],
+        "group": "機能ブロック"
+    },
+    "prize_pottery_sherd": {
+        "name": "宝物の壺の欠片",
+        "locate": [85, 29.5, 9],
+        "group": "機能ブロック"
+    },
+    "skull_pottery_sherd": {
+        "name": "頭蓋骨の壺の欠片",
+        "locate": [85, 29.5, 9],
+        "group": "機能ブロック"
+    },
+    "arms_up_pottery_sherd": {
+        "name": "両腕を上げた人の壺の欠片",
+        "locate": [85, 29.5, 9],
+        "group": "機能ブロック"
+    },
+    "brewer_pottery_sherd": {
+        "name": "醸造家の壺の欠片",
+        "locate": [85, 29.5, 9],
+        "group": "機能ブロック"
+    },
+    "armor_stand": {
+        "name": "防具立て",
+        "locate": [85, 29.5, 11],
+        "group": "その他建材"
+    },
+    "cauldron": {
+        "name": "大釜",
+        "locate": [85, 29.5, 12],
+        "group": "その他建材"
+    },
+    "loom": {
+        "name": "機織り機",
+        "locate": [85, 29.5, 13],
+        "group": "その他建材"
+    },
+    "chain": {
+        "name": "鎖",
+        "locate": [85, 29.5, 16],
+        "group": "その他建材"
+    },
+    "purpur_pillar": {
+        "name": "プルプァの柱",
+        "locate": [84, 29.5, 18],
+        "group": "その他建材"
+    },
+    "purpur_slab": {
+        "name": "プルプァのハーフブロック",
+        "locate": [84, 29.5, 19],
+        "group": "その他建材"
+    },
+    "purpur_stairs": {
+        "name": "プルプァの階段",
+        "locate": [84, 29.5, 19],
+        "group": "その他建材"
+    },
+    "end_stone_bricks": {
+        "name": "エンドストーンレンガ",
+        "locate": [84, 29.5, 21],
+        "group": "その他建材"
+    },
+    "end_stone_brick_slab": {
+        "name": "エンドストーンレンガのハーフブロック",
+        "locate": [84, 29.5, 21],
+        "group": "その他建材"
+    },
+    "end_stone_brick_stairs": {
+        "name": "エンドストーンレンガの階段",
+        "locate": [84, 29.5, 21],
+        "group": "その他建材"
+    },
+    "end_stone_brick_wall": {
+        "name": "エンドストーンレンガの塀",
+        "locate": [84, 29.5, 21],
+        "group": "その他建材"
+    },
+    "calcite": {
+        "name": "方解石",
+        "locate": [84, 29.5, 24],
+        "group": "その他建材"
+    },
+    "amethyst_cluster": {
+        "name": "アメジストの塊",
+        "locate": [84, 29.5, 27],
+        "group": "その他建材"
+    },
+    "large_amethyst_bud": {
+        "name": "大きなアメジストの芽",
+        "locate": [84, 29.5, 27],
+        "group": "その他建材"
+    },
+    "amethyst_block": {
+        "name": "アメジストブロック",
+        "locate": [84, 29.5, 28],
+        "group": "その他建材"
+    },
+    "sculk": {
+        "name": "スカルク",
+        "locate": [84, 29.5, 30],
+        "group": "その他建材"
+    },
+    "sculk_vein": {
+        "name": "スカルクヴェイン",
+        "locate": [84, 29.5, 30],
+        "group": "その他建材"
+    },
+    "echo_shard": {
+        "name": "残響の欠片",
+        "locate": [84, 29.5, 30],
+        "group": "その他建材"
+    },
+    "sculk_sensor": {
+        "name": "スカルクセンサー",
+        "locate": [84, 29.5, 32],
+        "group": "その他建材"
+    },
+    "sculk_catalyst": {
+        "name": "スカルクカタリスト",
+        "locate": [84, 29.5, 32],
+        "group": "その他建材"
+    },
+    "sculk_shrieker": {
+        "name": "スカルクシュリーカー",
+        "locate": [84, 29.5, 32],
+        "group": "その他建材"
+    },
+    "nether_bricks": {
+        "name": "ネザーレンガ",
+        "locate": [91, 29.5, 31],
+        "group": "ネザー系石材"
+    },
+    "nether_brick_slab": {
+        "name": "ネザーレンガのハーフブロック",
+        "locate": [91, 29.5, 31],
+        "group": "ネザー系石材"
+    },
+    "nether_brick_stairs": {
+        "name": "ネザーレンガの階段",
+        "locate": [91, 29.5, 31],
+        "group": "ネザー系石材"
+    },
+    "nether_brick_wall": {
+        "name": "ネザーレンガの塀",
+        "locate": [91, 29.5, 31],
+        "group": "ネザー系石材"
+    },
+    "nether_brick": {
+        "name": "ネザーレンガ",
+        "locate": [92, 29.5, 30],
+        "group": "ネザー系石材"
+    },
+    "chiseled_nether_bricks": {
+        "name": "模様入りのネザーレンガ",
+        "locate": [91, 29.5, 30],
+        "group": "ネザー系石材"
+    },
+    "nether_brick_fence": {
+        "name": "ネザーレンガのフェンス",
+        "locate": [91, 29.5, 30],
+        "group": "ネザー系石材"
+    },
+    "red_nether_bricks": {
+        "name": "赤いネザーレンガ",
+        "locate": [91, 29.5, 28],
+        "group": "ネザー系石材"
+    },
+    "red_nether_brick_wall": {
+        "name": "赤いネザーレンガの塀",
+        "locate": [91, 29.5, 27],
+        "group": "ネザー系石材"
+    },
+    "red_nether_brick_stairs": {
+        "name": "赤いネザーレンガの階段",
+        "locate": [91, 29.5, 27],
+        "group": "ネザー系石材"
+    },
+    "red_nether_brick_slab": {
+        "name": "赤いネザーレンガのハーフブロック",
+        "locate": [91, 29.5, 27],
+        "group": "ネザー系石材"
+    },
+    "crying_obsidian": {
+        "name": "泣く黒曜石",
+        "locate": [91, 29.5, 24],
+        "group": "ネザー系石材"
+    },
+    "blackstone_slab": {
+        "name": "ブラックストーンのハーフブロック",
+        "locate": [91, 29.5, 22],
+        "group": "ネザー系石材"
+    },
+    "blackstone_stairs": {
+        "name": "ブラックストーンの階段",
+        "locate": [91, 29.5, 22],
+        "group": "ネザー系石材"
+    },
+    "blackstone_wall": {
+        "name": "ブラックストーンの塀",
+        "locate": [91, 29.5, 22],
+        "group": "ネザー系石材"
+    },
+    "polished_blackstone_slab": {
+        "name": "磨かれたブラックストーンのハーフブロック",
+        "locate": [91, 29.5, 21],
+        "group": "ネザー系石材"
+    },
+    "polished_blackstone_stairs": {
+        "name": "磨かれたブラックストーンの階段",
+        "locate": [91, 29.5, 21],
+        "group": "ネザー系石材"
+    },
+    "polished_blackstone_wall": {
+        "name": "磨かれたブラックストーンの塀",
+        "locate": [91, 29.5, 21],
+        "group": "ネザー系石材"
+    },
+    "polished_blackstone": {
+        "name": "磨かれたブラックストーン",
+        "locate": [91, 29.5, 21],
+        "group": "ネザー系石材"
+    },
+    "polished_blackstone_bricks": {
+        "name": "磨かれたブラックストーンレンガ",
+        "locate": [91, 29.5, 20],
+        "group": "ネザー系石材"
+    },
+    "polished_blackstone_brick_slab": {
+        "name": "磨かれたブラックストーンレンガのハーフブロック",
+        "locate": [91, 29.5, 20],
+        "group": "ネザー系石材"
+    },
+    "polished_blackstone_brick_stairs": {
+        "name": "磨かれたブラックストーンレンガの階段",
+        "locate": [91, 29.5, 20],
+        "group": "ネザー系石材"
+    },
+    "polished_blackstone_brick_wall": {
+        "name": "磨かれたブラックストーンレンガの塀",
+        "locate": [91, 29.5, 20],
+        "group": "ネザー系石材"
+    },
+    "cracked_polished_blackstone_bricks": {
+        "name": "ひび割れた磨かれたブラックストーンレンガ",
+        "locate": [91, 29.5, 19],
+        "group": "ネザー系石材"
+    },
+    "chiseled_polished_blackstone": {
+        "name": "模様入りの磨かれたブラックストーン",
+        "locate": [91, 29.5, 18],
+        "group": "ネザー系石材"
+    },
+    "gilded_blackstone": {
+        "name": "きらめくブラックストーン",
+        "locate": [91, 29.5, 18],
+        "group": "ネザー系石材"
+    },
+    "smooth_basalt": {
+        "name": "滑らかな玄武岩",
+        "locate": [91, 29.5, 16],
+        "group": "ネザー系石材"
+    },
+    "polished_basalt": {
+        "name": "磨かれた玄武岩",
+        "locate": [92, 29.5, 15],
+        "group": "ネザー系石材"
+    },
+    "respawn_anchor": {
+        "name": "リスポーンアンカー",
+        "locate": [92, 29.5, 14],
+        "group": "ネザー系石材"
+    },
+    "lodestone": {
+        "name": "ロードストーン",
+        "locate": [92, 29.5, 14],
+        "group": "ネザー系石材"
+    },
+    "sponge": {
+        "name": "スポンジ",
+        "locate": [92, 29.5, 16],
+        "group": "スポンジ"
+    },
+    "blue_ice": {
+        "name": "青氷",
+        "locate": [92, 29.5, 18],
+        "group": "雪や氷など青いもの"
+    },
+    "packed_ice": {
+        "name": "氷塊",
+        "locate": [92, 29.5, 19],
+        "group": "雪や氷など青いもの"
+    },
+    "ice": {
+        "name": "氷",
+        "locate": [92, 29.5, 20],
+        "group": "雪や氷など青いもの"
+    },
+    "snowball": {
+        "name": "雪玉",
+        "locate": [91, 29.5, 23],
+        "group": "雪や氷など青いもの"
+    },
+    "snow": {
+        "name": "雪",
+        "locate": [91, 29.5, 24],
+        "group": "雪や氷など青いもの"
+    },
+    "snow_block": {
+        "name": "雪ブロック",
+        "locate": [91, 29.5, 25],
+        "group": "雪や氷など青いもの"
+    },
+    "prismarine_slab": {
+        "name": "プリズマリンのハーフブロック",
+        "locate": [91, 29.5, 29],
+        "group": "雪や氷など青いもの"
+    },
+    "prismarine_stairs": {
+        "name": "プリズマリンの階段",
+        "locate": [91, 29.5, 29],
+        "group": "雪や氷など青いもの"
+    },
+    "prismarine_wall": {
+        "name": "プリズマリンの塀",
+        "locate": [91, 29.5, 29],
+        "group": "雪や氷など青いもの"
+    },
+    "dark_prismarine": {
+        "name": "ダークプリズマリン",
+        "locate": [91, 29.5, 30],
+        "group": "雪や氷など青いもの"
+    },
+    "dark_prismarine_slab": {
+        "name": "ダークプリズマリンのハーフブロック",
+        "locate": [91, 29.5, 30],
+        "group": "雪や氷など青いもの"
+    },
+    "dark_prismarine_stairs": {
+        "name": "ダークプリズマリンの階段",
+        "locate": [91, 29.5, 30],
+        "group": "雪や氷など青いもの"
+    },
+    "prismarine_brick_slab": {
+        "name": "プリズマリンレンガのハーフブロック",
+        "locate": [91, 29.5, 31],
+        "group": "雪や氷など青いもの"
+    },
+    "prismarine_brick_stairs": {
+        "name": "プリズマリンレンガの階段",
+        "locate": [91, 29.5, 31],
+        "group": "雪や氷など青いもの"
+    },
+    "prismarine_bricks": {
+        "name": "プリズマリンレンガ",
+        "locate": [91, 29.5, 31],
+        "group": "雪や氷など青いもの"
+    },
+    "bricks": {
+        "name": "レンガ",
+        "locate": [98, 29.5, 31],
+        "group": "砂、レンガなど"
+    },
+    "brick_slab": {
+        "name": "レンガのハーフブロック",
+        "locate": [98, 29.5, 31],
+        "group": "砂、レンガなど"
+    },
+    "brick_stairs": {
+        "name": "レンガの階段",
+        "locate": [98, 29.5, 31],
+        "group": "砂、レンガなど"
+    },
+    "brick_wall": {
+        "name": "レンガの塀",
+        "locate": [98, 29.5, 31],
+        "group": "砂、レンガなど"
+    },
+    "brick": {
+        "name": "レンガ",
+        "locate": [98, 29.5, 31],
+        "group": "砂、レンガなど"
+    },
+    "clay_ball": {
+        "name": "粘土玉",
+        "locate": [98, 29.5, 30],
+        "group": "砂、レンガなど"
+    },
+    "clay": {
+        "name": "粘土",
+        "locate": [98, 29.5, 30],
+        "group": "砂、レンガなど"
+    },
+    "sandstone_slab": {
+        "name": "砂岩のハーフブロック",
+        "locate": [98, 29.5, 28],
+        "group": "砂、レンガなど"
+    },
+    "sandstone_stairs": {
+        "name": "砂岩の階段",
+        "locate": [98, 29.5, 28],
+        "group": "砂、レンガなど"
+    },
+    "sandstone_wall": {
+        "name": "砂岩の塀",
+        "locate": [98, 29.5, 28],
+        "group": "砂、レンガなど"
+    },
+    "chiseled_sandstone": {
+        "name": "模様入りの砂岩",
+        "locate": [98, 29.5, 27],
+        "group": "砂、レンガなど"
+    },
+    "cut_sandstone_slab": {
+        "name": "研がれた砂岩のハーフブロック",
+        "locate": [98, 29.5, 27],
+        "group": "砂、レンガなど"
+    },
+    "cut_sandstone": {
+        "name": "研がれた砂岩",
+        "locate": [98, 29.5, 27],
+        "group": "砂、レンガなど"
+    },
+    "smooth_sandstone_slab": {
+        "name": "滑らかな砂岩のハーフブロック",
+        "locate": [98, 29.5, 26],
+        "group": "砂、レンガなど"
+    },
+    "smooth_sandstone_stairs": {
+        "name": "滑らかな砂岩の階段",
+        "locate": [98, 29.5, 26],
+        "group": "砂、レンガなど"
+    },
+    "red_sandstone_slab": {
+        "name": "赤い砂岩のハーフブロック",
+        "locate": [98, 29.5, 25],
+        "group": "砂、レンガなど"
+    },
+    "red_sandstone_stairs": {
+        "name": "赤い砂岩の階段",
+        "locate": [98, 29.5, 25],
+        "group": "砂、レンガなど"
+    },
+    "red_sandstone_wall": {
+        "name": "赤い砂岩の塀",
+        "locate": [98, 29.5, 25],
+        "group": "砂、レンガなど"
+    },
+    "red_sandstone": {
+        "name": "赤い砂岩",
+        "locate": [98, 29.5, 25],
+        "group": "砂、レンガなど"
+    },
+    "cut_red_sandstone": {
+        "name": "研がれた赤い砂岩",
+        "locate": [98, 29.5, 24],
+        "group": "砂、レンガなど"
+    },
+    "cut_red_sandstone_slab": {
+        "name": "研がれた赤い砂岩のハーフブロック",
+        "locate": [98, 29.5, 24],
+        "group": "砂、レンガなど"
+    },
+    "chiseled_red_sandstone": {
+        "name": "模様入りの赤い砂岩",
+        "locate": [98, 29.5, 24],
+        "group": "砂、レンガなど"
+    },
+    "smooth_red_sandstone": {
+        "name": "滑らかな赤い砂岩",
+        "locate": [98, 29.5, 24],
+        "group": "砂、レンガなど"
+    },
+    "smooth_red_sandstone_slab": {
+        "name": "滑らかな赤い砂岩のハーフブロック",
+        "locate": [98, 29.5, 24],
+        "group": "砂、レンガなど"
+    },
+    "smooth_red_sandstone_stairs": {
+        "name": "滑らかな赤い砂岩の階段",
+        "locate": [98, 29.5, 24],
+        "group": "砂、レンガなど"
+    },
+    "quartz_pillar": {
+        "name": "クォーツの柱",
+        "locate": [98, 29.5, 21],
+        "group": "クォーツブロック"
+    },
+    "chiseled_quartz_block": {
+        "name": "模様入りのクォーツブロック",
+        "locate": [98, 29.5, 21],
+        "group": "クォーツブロック"
+    },
+    "quartz_bricks": {
+        "name": "クォーツレンガ",
+        "locate": [98, 29.5, 21],
+        "group": "クォーツブロック"
+    },
+    "quartz_slab": {
+        "name": "クォーツのハーフブロック",
+        "locate": [98, 29.5, 19],
+        "group": "クォーツブロック"
+    },
+    "quartz_stairs": {
+        "name": "クォーツの階段",
+        "locate": [98, 29.5, 19],
+        "group": "クォーツブロック"
+    },
+    "smooth_quartz_slab": {
+        "name": "滑らかなクォーツのハーフブロック",
+        "locate": [98, 29.5, 17],
+        "group": "クォーツブロック"
+    },
+    "smooth_quartz_stairs": {
+        "name": "滑らかなクォーツの階段",
+        "locate": [98, 29.5, 17],
+        "group": "クォーツブロック"
+    },
+    "smooth_quartz": {
+        "name": "滑らかなクォーツブロック",
+        "locate": [98, 29.5, 16],
+        "group": "クォーツブロック"
+    },
+    "mud": {
+        "name": "泥",
+        "locate": [98, 29.5, 14],
+        "group": "砂、レンガなど"
+    },
+    "mud_bricks": {
+        "name": "泥レンガ",
+        "locate": [98, 29.5, 13],
+        "group": "砂、レンガなど"
+    },
+    "mud_brick_stairs": {
+        "name": "泥レンガの階段",
+        "locate": [98, 29.5, 13],
+        "group": "砂、レンガなど"
+    },
+    "mud_brick_slab": {
+        "name": "泥レンガのハーフブロック",
+        "locate": [98, 29.5, 13],
+        "group": "砂、レンガなど"
+    },
+    "mud_brick_wall": {
+        "name": "泥レンガの塀",
+        "locate": [98, 29.5, 13],
+        "group": "砂、レンガなど"
+    },
+    "packed_mud": {
+        "name": "固めた泥",
+        "locate": [99, 29.5, 12],
+        "group": "砂、レンガなど"
+    },
+    "dripstone_block": {
+        "name": "鍾乳石ブロック",
+        "locate": [98, 29.5, 9],
+        "group": "砂、レンガなど"
+    },
+    "pointed_dripstone": {
+        "name": "鍾乳石",
+        "locate": [98, 29.5, 9],
+        "group": "砂、レンガなど"
+    },
+    "tuff_slab": {
+        "name": "凝灰岩のハーフブロック",
+        "locate": [99, 29.5, 9],
+        "group": "石系"
+    },
+    "tuff_stairs": {
+        "name": "凝灰岩の階段",
+        "locate": [99, 29.5, 9],
+        "group": "石系"
+    },
+    "tuff_wall": {
+        "name": "凝灰岩の塀",
+        "locate": [99, 29.5, 9],
+        "group": "石系"
+    },
+    "chiseled_tuff": {
+        "name": "模様入りの凝灰岩",
+        "locate": [99, 29.5, 10],
+        "group": "石系"
+    },
+    "chiseled_tuff_bricks": {
+        "name": "模様入りの凝灰岩レンガ",
+        "locate": [99, 29.5, 11],
+        "group": "石系"
+    },
+    "tuff_brick_slab": {
+        "name": "凝灰岩レンガのハーフブロック",
+        "locate": [99, 29.5, 12],
+        "group": "石系"
+    },
+    "tuff_brick_stairs": {
+        "name": "凝灰岩レンガの階段",
+        "locate": [99, 29.5, 12],
+        "group": "石系"
+    },
+    "tuff_brick_wall": {
+        "name": "凝灰岩レンガの塀",
+        "locate": [99, 29.5, 12],
+        "group": "石系"
+    },
+    "tuff_bricks": {
+        "name": "凝灰岩レンガ",
+        "locate": [99, 29.5, 12],
+        "group": "石系"
+    },
+    "polished_tuff": {
+        "name": "磨かれた凝灰岩",
+        "locate": [99, 29.5, 14],
+        "group": "石系"
+    },
+    "polished_tuff_slab": {
+        "name": "磨かれた凝灰岩のハーフブロック",
+        "locate": [99, 29.5, 14],
+        "group": "石系"
+    },
+    "polished_tuff_stairs": {
+        "name": "磨かれた凝灰岩の階段",
+        "locate": [99, 29.5, 14],
+        "group": "石系"
+    },
+    "polished_tuff_wall": {
+        "name": "磨かれた凝灰岩の塀",
+        "locate": [99, 29.5, 14],
+        "group": "石系"
+    },
+    "chiseled_deepslate": {
+        "name": "模様入りの深層岩",
+        "locate": [99, 29.5, 15],
+        "group": "石系"
+    },
+    "cobbled_deepslate_slab": {
+        "name": "深層岩の丸石のハーフブロック",
+        "locate": [99, 29.5, 16],
+        "group": "石系"
+    },
+    "cobbled_deepslate_stairs": {
+        "name": "深層岩の丸石の階段",
+        "locate": [99, 29.5, 16],
+        "group": "石系"
+    },
+    "cobbled_deepslate_wall": {
+        "name": "深層岩の丸石の塀",
+        "locate": [99, 29.5, 16],
+        "group": "石系"
+    },
+    "cracked_deepslate_bricks": {
+        "name": "ひび割れた深層岩レンガ",
+        "locate": [99, 29.5, 17],
+        "group": "石系"
+    },
+    "deepslate_brick_slab": {
+        "name": "深層岩レンガのハーフブロック",
+        "locate": [99, 29.5, 17],
+        "group": "石系"
+    },
+    "deepslate_brick_stairs": {
+        "name": "深層岩レンガの階段",
+        "locate": [99, 29.5, 17],
+        "group": "石系"
+    },
+    "deepslate_brick_wall": {
+        "name": "深層岩レンガの塀",
+        "locate": [99, 29.5, 17],
+        "group": "石系"
+    },
+    "deepslate_bricks": {
+        "name": "深層岩レンガ",
+        "locate": [99, 29.5, 17],
+        "group": "石系"
+    },
+    "polished_deepslate": {
+        "name": "磨かれた深層岩",
+        "locate": [99, 29.5, 18],
+        "group": "石系"
+    },
+    "polished_deepslate_slab": {
+        "name": "磨かれた深層岩のハーフブロック",
+        "locate": [99, 29.5, 18],
+        "group": "石系"
+    },
+    "polished_deepslate_stairs": {
+        "name": "磨かれた深層岩の階段",
+        "locate": [99, 29.5, 18],
+        "group": "石系"
+    },
+    "polished_deepslate_wall": {
+        "name": "磨かれた深層岩の塀",
+        "locate": [99, 29.5, 18],
+        "group": "石系"
+    },
+    "cracked_deepslate_tiles": {
+        "name": "ひび割れた深層岩タイル",
+        "locate": [99, 29.5, 19],
+        "group": "石系"
+    },
+    "deepslate_tile_slab": {
+        "name": "深層岩タイルのハーフブロック",
+        "locate": [99, 29.5, 19],
+        "group": "石系"
+    },
+    "deepslate_tile_stairs": {
+        "name": "深層岩タイルの階段",
+        "locate": [99, 29.5, 19],
+        "group": "石系"
+    },
+    "deepslate_tile_wall": {
+        "name": "深層岩タイルの塀",
+        "locate": [99, 29.5, 19],
+        "group": "石系"
+    },
+    "deepslate_tiles": {
+        "name": "深層岩タイル",
+        "locate": [99, 29.5, 19],
+        "group": "石系"
+    },
+    "polished_andesite": {
+        "name": "磨かれた安山岩",
+        "locate": [99, 29.5, 21],
+        "group": "石系"
+    },
+    "polished_andesite_slab": {
+        "name": "磨かれた安山岩のハーフブロック",
+        "locate": [99, 29.5, 21],
+        "group": "石系"
+    },
+    "polished_andesite_stairs": {
+        "name": "磨かれた安山岩の階段",
+        "locate": [99, 29.5, 21],
+        "group": "石系"
+    },
+    "andesite_stairs": {
+        "name": "安山岩の階段",
+        "locate": [99, 29.5, 21],
+        "group": "石系"
+    },
+    "andesite_slab": {
+        "name": "安山岩のハーフブロック",
+        "locate": [99, 29.5, 21],
+        "group": "石系"
+    },
+    "andesite_wall": {
+        "name": "安山岩の塀",
+        "locate": [99, 29.5, 21],
+        "group": "石系"
+    },
+    "granite_slab": {
+        "name": "花崗岩のハーフブロック",
+        "locate": [99, 29.5, 23],
+        "group": "石系"
+    },
+    "granite_stairs": {
+        "name": "花崗岩の階段",
+        "locate": [99, 29.5, 23],
+        "group": "石系"
+    },
+    "granite_wall": {
+        "name": "花崗岩の塀",
+        "locate": [99, 29.5, 23],
+        "group": "石系"
+    },
+    "polished_granite_slab": {
+        "name": "磨かれた花崗岩のハーフブロック",
+        "locate": [99, 29.5, 23],
+        "group": "石系"
+    },
+    "polished_granite_stairs": {
+        "name": "磨かれた花崗岩の階段",
+        "locate": [99, 29.5, 23],
+        "group": "石系"
+    },
+    "polished_granite": {
+        "name": "磨かれた花崗岩",
+        "locate": [99, 29.5, 23],
+        "group": "石系"
+    },
+    "polished_diorite": {
+        "name": "磨かれた閃緑岩",
+        "locate": [99, 29.5, 25],
+        "group": "石系"
+    },
+    "polished_diorite_slab": {
+        "name": "磨かれた閃緑岩のハーフブロック",
+        "locate": [99, 29.5, 25],
+        "group": "石系"
+    },
+    "polished_diorite_stairs": {
+        "name": "磨かれた閃緑岩の階段",
+        "locate": [99, 29.5, 25],
+        "group": "石系"
+    },
+    "diorite_slab": {
+        "name": "閃緑岩のハーフブロック",
+        "locate": [99, 29.5, 25],
+        "group": "石系"
+    },
+    "diorite_stairs": {
+        "name": "閃緑岩の階段",
+        "locate": [99, 29.5, 25],
+        "group": "石系"
+    },
+    "diorite_wall": {
+        "name": "閃緑岩の塀",
+        "locate": [99, 29.5, 25],
+        "group": "石系"
+    },
+    "smooth_stone_slab": {
+        "name": "滑らかな石のハーフブロック",
+        "locate": [99, 29.5, 27],
+        "group": "石系"
+    },
+    "stone_slab": {
+        "name": "石のハーフブロック",
+        "locate": [99, 29.5, 28],
+        "group": "石系"
+    },
+    "chiseled_stone_bricks": {
+        "name": "模様入りの石レンガ",
+        "locate": [99, 29.5, 28],
+        "group": "石系"
+    },
+    "mossy_cobblestone_slab": {
+        "name": "苔むした丸石のハーフブロック",
+        "locate": [99, 29.5, 29],
+        "group": "石系"
+    },
+    "mossy_cobblestone_stairs": {
+        "name": "苔むした丸石の階段",
+        "locate": [99, 29.5, 29],
+        "group": "石系"
+    },
+    "mossy_cobblestone_wall": {
+        "name": "苔むした丸石の塀",
+        "locate": [99, 29.5, 29],
+        "group": "石系"
+    },
+    "mossy_stone_bricks": {
+        "name": "苔むした石レンガ",
+        "locate": [99, 29.5, 30],
+        "group": "石系"
+    },
+    "mossy_stone_brick_slab": {
+        "name": "苔むした石レンガのハーフブロック",
+        "locate": [99, 29.5, 30],
+        "group": "石系"
+    },
+    "mossy_stone_brick_stairs": {
+        "name": "苔むした石レンガの階段",
+        "locate": [99, 29.5, 30],
+        "group": "石系"
+    },
+    "mossy_stone_brick_wall": {
+        "name": "苔むした石レンガの塀",
+        "locate": [99, 29.5, 30],
+        "group": "石系"
+    },
+    "cracked_stone_bricks": {
+        "name": "ひび割れた石レンガ",
+        "locate": [99, 29.5, 30],
+        "group": "石系"
+    },
+    "stone_brick_slab": {
+        "name": "石レンガのハーフブロック",
+        "locate": [99, 29.5, 32],
+        "group": "石系"
+    },
+    "stone_brick_stairs": {
+        "name": "石レンガの階段",
+        "locate": [99, 29.5, 32],
+        "group": "石系"
+    },
+    "stone_brick_wall": {
+        "name": "石レンガの塀",
+        "locate": [99, 29.5, 32],
+        "group": "石系"
+    },
+    "stone_bricks": {
+        "name": "石レンガ",
+        "locate": [99, 29.5, 32],
+        "group": "石系"
+    },
+    "music_disc_cat": {
+        "name": "レコード",
+        "locate": [104, 30.0625, 17],
+        "group": "レコード保管室"
+    },
+    "music_disc_stal": {
+        "name": "レコード",
+        "locate": [104, 30.0625, 11],
+        "group": "レコード保管室"
+    },
+    "music_disc_creator_music_box": {
+        "name": "レコード",
+        "locate": [104, 30.0625, 8],
+        "group": "レコード保管室"
+    },
+    "music_disc_creator": {
+        "name": "レコード",
+        "locate": [104, 30.0625, 7],
+        "group": "レコード保管室"
+    },
+    "music_disc_precipice": {
+        "name": "レコード",
+        "locate": [104, 30.0625, 6],
+        "group": "レコード保管室"
+    },
+    "music_disc_11": {
+        "name": "レコード",
+        "locate": [104, 30.0625, 2],
+        "group": "レコード保管室"
+    },
+    "music_disc_chirp": {
+        "name": "レコード",
+        "locate": [104, 30.0625, -3],
+        "group": "レコード保管室"
+    },
+    "shulker_shell": {
+        "name": "シュルカーの殻",
+        "locate": [108, 29.5, 30],
+        "group": "シュルカー"
+    },
+    "campfire": {
+        "name": "焚き火",
+        "locate": [108, 29.5, 11],
+        "group": "シュルカー"
+    },
+    "soul_campfire": {
+        "name": "魂の焚き火",
+        "locate": [108, 29.5, 10],
+        "group": "シュルカー"
+    },
+    "sea_lantern": {
+        "name": "シーランタン",
+        "locate": [108, 29.5, 8],
+        "group": "シュルカー"
+    },
+    "jack_o_lantern": {
+        "name": "ジャック・オ・ランタン",
+        "locate": [108, 29.5, 5],
+        "group": "シュルカー"
+    },
+    "shroomlight": {
+        "name": "シュルームライト",
+        "locate": [108, 29.5, 2],
+        "group": "シュルカー"
+    },
+    "brown_candle": {
+        "name": "茶色のろうそく",
+        "locate": [111, 29.5, -9],
+        "group": "照明"
+    },
+    "purple_candle": {
+        "name": "紫色のろうそく",
+        "locate": [111, 29.5, -9],
+        "group": "照明"
+    },
+    "blue_candle": {
+        "name": "青色のろうそく",
+        "locate": [110, 29.5, -8],
+        "group": "照明"
+    },
+    "red_candle": {
+        "name": "赤色のろうそく",
+        "locate": [110, 29.5, -8],
+        "group": "照明"
+    },
+    "magenta_candle": {
+        "name": "赤紫色のろうそく",
+        "locate": [110, 29.5, -7],
+        "group": "照明"
+    },
+    "black_candle": {
+        "name": "黒色のろうそく",
+        "locate": [110, 29.5, -7],
+        "group": "照明"
+    },
+    "gray_candle": {
+        "name": "灰色のろうそく",
+        "locate": [110, 29.5, -6],
+        "group": "照明"
+    },
+    "pink_candle": {
+        "name": "桃色のろうそく",
+        "locate": [110, 29.5, -6],
+        "group": "照明"
+    },
+    "yellow_candle": {
+        "name": "黄色のろうそく",
+        "locate": [110, 29.5, -4],
+        "group": "照明"
+    },
+    "orange_candle": {
+        "name": "橙色のろうそく",
+        "locate": [110, 29.5, -5],
+        "group": "照明"
+    },
+    "light_gray_candle": {
+        "name": "薄灰色のろうそく",
+        "locate": [110, 29.5, -5],
+        "group": "照明"
+    },
+    "white_candle": {
+        "name": "白色のろうそく",
+        "locate": [110, 29.5, -4],
+        "group": "照明"
+    },
+    "light_blue_candle": {
+        "name": "空色のろうそく",
+        "locate": [110, 29.5, -3],
+        "group": "照明"
+    },
+    "lime_candle": {
+        "name": "黄緑色のろうそく",
+        "locate": [110, 29.5, -3],
+        "group": "照明"
+    },
+    "green_candle": {
+        "name": "緑色のろうそく",
+        "locate": [110, 29.5, -2],
+        "group": "照明"
+    },
+    "cyan_candle": {
+        "name": "青緑色のろうそく",
+        "locate": [110, 29.5, -2],
+        "group": "照明"
+    },
+    "candle": {
+        "name": "ろうそく",
+        "locate": [110, 29.5, -1],
+        "group": "照明"
+    },
+    "end_rod": {
+        "name": "エンドロッド",
+        "locate": [110, 29.5, 14],
+        "group": "照明"
+    },
+    "soul_lantern": {
+        "name": "魂のランタン",
+        "locate": [110, 29.5, 14],
+        "group": "照明"
+    },
+    "lantern": {
+        "name": "ランタン",
+        "locate": [110, 29.5, 15],
+        "group": "照明"
+    },
+    "soul_torch": {
+        "name": "魂の松明",
+        "locate": [110, 29.5, 17],
+        "group": "照明"
+    },
+    "torch": {
+        "name": "松明",
+        "locate": [110, 29.5, 20],
+        "group": "照明"
+    },
+    "netherite_leggings": {
+        "name": "ネザライトのレギンス",
+        "locate": [116, 29.5, 43],
+        "group": "防具"
+    },
+    "netherite_boots": {
+        "name": "ネザライトのブーツ",
+        "locate": [116, 29.5, 43],
+        "group": "防具"
+    },
+    "sentry_armor_trim_smithing_template": {
+        "name": "鍛冶型",
+        "locate": [116, 29.5, 44],
+        "group": "防具"
+    },
+    "vex_armor_trim_smithing_template": {
+        "name": "鍛冶型",
+        "locate": [116, 29.5, 44],
+        "group": "防具"
+    },
+    "ward_armor_trim_smithing_template": {
+        "name": "鍛冶型",
+        "locate": [116, 29.5, 44],
+        "group": "防具"
+    },
+    "silence_armor_trim_smithing_template": {
+        "name": "鍛冶型",
+        "locate": [116, 29.5, 44],
+        "group": "防具"
+    },
+    "snout_armor_trim_smithing_template": {
+        "name": "鍛冶型",
+        "locate": [116, 29.5, 44],
+        "group": "防具"
+    },
+    "rib_armor_trim_smithing_template": {
+        "name": "鍛冶型",
+        "locate": [116, 29.5, 44],
+        "group": "防具"
+    },
+    "spire_armor_trim_smithing_template": {
+        "name": "鍛冶型",
+        "locate": [116, 29.5, 44],
+        "group": "防具"
+    },
+    "netherite_upgrade_smithing_template": {
+        "name": "鍛冶型",
+        "locate": [116, 29.5, 44],
+        "group": "防具"
+    },
+    "bolt_armor_trim_smithing_template": {
+        "name": "鍛冶型",
+        "locate": [117, 29.5, 45],
+        "group": "防具"
+    },
+    "flow_armor_trim_smithing_template": {
+        "name": "鍛冶型",
+        "locate": [117, 29.5, 45],
+        "group": "防具"
+    },
+    "host_armor_trim_smithing_template": {
+        "name": "鍛冶型",
+        "locate": [117, 29.5, 45],
+        "group": "防具"
+    },
+    "wayfinder_armor_trim_smithing_template": {
+        "name": "鍛冶型",
+        "locate": [117, 29.5, 45],
+        "group": "防具"
+    },
+    "shaper_armor_trim_smithing_template": {
+        "name": "鍛冶型",
+        "locate": [117, 29.5, 45],
+        "group": "防具"
+    },
+    "raiser_armor_trim_smithing_template": {
+        "name": "鍛冶型",
+        "locate": [117, 29.5, 45],
+        "group": "防具"
+    },
+    "wild_armor_trim_smithing_template": {
+        "name": "鍛冶型",
+        "locate": [117, 29.5, 45],
+        "group": "防具"
+    },
+    "dune_armor_trim_smithing_template": {
+        "name": "鍛冶型",
+        "locate": [117, 29.5, 45],
+        "group": "防具"
+    },
+    "tide_armor_trim_smithing_template": {
+        "name": "鍛冶型",
+        "locate": [117, 29.5, 45],
+        "group": "防具"
+    },
+    "eye_armor_trim_smithing_template": {
+        "name": "鍛冶型",
+        "locate": [117, 29.5, 45],
+        "group": "防具"
+    },
+    "leather_helmet": {
+        "name": "革の帽子",
+        "locate": [116, 29.5, 47],
+        "group": "ヘルメット"
+    },
+    "chainmail_helmet": {
+        "name": "チェーンのヘルメット",
+        "locate": [116, 29.5, 47],
+        "group": "ヘルメット"
+    },
+    "iron_helmet": {
+        "name": "鉄のヘルメット",
+        "locate": [116, 29.5, 48],
+        "group": "ヘルメット"
+    },
+    "leather_chestplate": {
+        "name": "革の上着",
+        "locate": [116, 29.5, 52],
+        "group": "チェストプレート"
+    },
+    "chainmail_chestplate": {
+        "name": "チェーンのチェストプレート",
+        "locate": [116, 29.5, 52],
+        "group": "チェストプレート"
+    },
+    "iron_chestplate": {
+        "name": "鉄のチェストプレート",
+        "locate": [116, 29.5, 53],
+        "group": "チェストプレート"
+    },
+    "golden_chestplate": {
+        "name": "金のチェストプレート",
+        "locate": [116, 29.5, 54],
+        "group": "チェストプレート"
+    },
+    "diamond_chestplate": {
+        "name": "ダイヤモンドのチェストプレート",
+        "locate": [116, 29.5, 55],
+        "group": "チェストプレート"
+    },
+    "leather_leggings": {
+        "name": "革のズボン",
+        "locate": [116, 29.5, 57],
+        "group": "レギンス"
+    },
+    "chainmail_leggings": {
+        "name": "チェーンのレギンス",
+        "locate": [116, 29.5, 57],
+        "group": "レギンス"
+    },
+    "iron_leggings": {
+        "name": "鉄のレギンス",
+        "locate": [116, 29.5, 58],
+        "group": "レギンス"
+    },
+    "diamond_leggings": {
+        "name": "ダイヤモンドのレギンス",
+        "locate": [116, 29.5, 60],
+        "group": "レギンス"
+    },
+    "leather_boots": {
+        "name": "革のブーツ",
+        "locate": [116, 29.5, 62],
+        "group": "ブーツ"
+    },
+    "chainmail_boots": {
+        "name": "チェーンのブーツ",
+        "locate": [116, 29.5, 62],
+        "group": "ブーツ"
+    },
+    "golden_boots": {
+        "name": "金のブーツ",
+        "locate": [116, 29.5, 64],
+        "group": "ブーツ"
+    },
+    "diamond_boots": {
+        "name": "ダイヤモンドのブーツ",
+        "locate": [116, 29.5, 65],
+        "group": "ブーツ"
+    },
+    "turtle_scute": {
+        "name": "カメのウロコ",
+        "locate": [116, 29.5, 71],
+        "group": "カメの甲羅"
+    },
+    "heavy_core": {
+        "name": "ヘビーコア",
+        "locate": [116, 29.5, 71],
+        "group": "武器"
+    },
+    "spectral_arrow": {
+        "name": "光の矢",
+        "locate": [117, 29.5, 66],
+        "group": "矢"
+    },
+    "diamond_sword": {
+        "name": "ダイヤモンドの剣",
+        "locate": [117, 29.5, 53],
+        "group": "剣"
+    },
+    "golden_sword": {
+        "name": "金の剣",
+        "locate": [117, 29.5, 52],
+        "group": "剣"
+    },
+    "iron_sword": {
+        "name": "鉄の剣",
+        "locate": [117, 29.5, 51],
+        "group": "剣"
+    },
+    "stone_sword": {
+        "name": "石の剣",
+        "locate": [117, 29.5, 50],
+        "group": "剣"
+    },
+    "stone_pickaxe": {
+        "name": "石のツルハシ",
+        "locate": [124, 29.5, 47],
+        "group": "ツルハシ"
+    },
+    "wooden_pickaxe": {
+        "name": "木のツルハシ",
+        "locate": [124, 29.5, 47],
+        "group": "ツルハシ"
+    },
+    "iron_pickaxe": {
+        "name": "鉄のツルハシ",
+        "locate": [124, 29.5, 48],
+        "group": "ツルハシ"
+    },
+    "golden_pickaxe": {
+        "name": "金のツルハシ",
+        "locate": [123, 29.5, 49],
+        "group": "ツルハシ"
+    },
+    "diamond_pickaxe": {
+        "name": "ダイヤモンドのツルハシ",
+        "locate": [123, 29.5, 50],
+        "group": "ツルハシ"
+    },
+    "netherite_pickaxe": {
+        "name": "ネザライトのツルハシ",
+        "locate": [123, 29.5, 50],
+        "group": "ツルハシ"
+    },
+    "stone_axe": {
+        "name": "石の斧",
+        "locate": [123, 29.5, 52],
+        "group": "斧"
+    },
+    "wooden_axe": {
+        "name": "木の斧",
+        "locate": [123, 29.5, 52],
+        "group": "斧"
+    },
+    "iron_axe": {
+        "name": "鉄の斧",
+        "locate": [123, 29.5, 53],
+        "group": "斧"
+    },
+    "golden_axe": {
+        "name": "金の斧",
+        "locate": [123, 29.5, 54],
+        "group": "斧"
+    },
+    "diamond_axe": {
+        "name": "ダイヤモンドの斧",
+        "locate": [123, 29.5, 55],
+        "group": "斧"
+    },
+    "netherite_axe": {
+        "name": "ネザライトの斧",
+        "locate": [123, 29.5, 55],
+        "group": "斧"
+    },
+    "stone_shovel": {
+        "name": "石のシャベル",
+        "locate": [123, 29.5, 57],
+        "group": "シャベル"
+    },
+    "iron_shovel": {
+        "name": "鉄のシャベル",
+        "locate": [123, 29.5, 58],
+        "group": "シャベル"
+    },
+    "diamond_shovel": {
+        "name": "ダイヤモンドのシャベル",
+        "locate": [123, 29.5, 60],
+        "group": "シャベル"
+    },
+    "stone_hoe": {
+        "name": "石のクワ",
+        "locate": [123, 29.5, 62],
+        "group": "クワ"
+    },
+    "wooden_hoe": {
+        "name": "木のクワ",
+        "locate": [123, 29.5, 62],
+        "group": "クワ"
+    },
+    "golden_hoe": {
+        "name": "金のクワ",
+        "locate": [123, 29.5, 64],
+        "group": "クワ"
+    },
+    "diamond_hoe": {
+        "name": "ダイヤモンドのクワ",
+        "locate": [123, 29.5, 65],
+        "group": "クワ"
+    },
+    "netherite_hoe": {
+        "name": "ネザライトのクワ",
+        "locate": [123, 29.5, 65],
+        "group": "クワ"
+    },
+    "shears": {
+        "name": "ハサミ",
+        "locate": [123, 29.5, 68],
+        "group": "ハサミ"
+    },
+    "clock": {
+        "name": "時計",
+        "locate": [123, 29.5, 64],
+        "group": "その他手持ち品"
+    },
+    "compass": {
+        "name": "コンパス",
+        "locate": [123, 29.5, 64],
+        "group": "その他手持ち品"
+    },
+    "recovery_compass": {
+        "name": "リカバリーコンパス",
+        "locate": [123, 29.5, 64],
+        "group": "その他手持ち品"
+    },
+    "spyglass": {
+        "name": "望遠鏡",
+        "locate": [123, 29.5, 63],
+        "group": "その他手持ち品"
+    },
+    "name_tag": {
+        "name": "名札",
+        "locate": [124, 29.5, 62],
+        "group": "その他手持ち品"
+    },
+    "lead": {
+        "name": "リード",
+        "locate": [124, 29.5, 61],
+        "group": "その他手持ち品"
+    },
+    "brush": {
+        "name": "ブラシ",
+        "locate": [123, 29.5, 56],
+        "group": "ブラシ"
+    },
+    "flint_and_steel": {
+        "name": "火打石と打ち金",
+        "locate": [123, 29.5, 55],
+        "group": "火打石"
+    },
+    "warped_fungus_on_a_stick": {
+        "name": "歪んだキノコ付きの棒",
+        "locate": [123, 29.5, 53],
+        "group": "釣竿系"
+    },
+    "carrot_on_a_stick": {
+        "name": "ニンジン付きの棒",
+        "locate": [123, 29.5, 53],
+        "group": "釣竿系"
+    },
+    "bucket": {
+        "name": "バケツ",
+        "locate": [123, 29.5, 47],
+        "group": "バケツ系"
+    },
+    "dragon_breath": {
+        "name": "ドラゴンブレス",
+        "locate": [133, 29.5, 78],
+        "group": "ポーション素材"
+    },
+    "ominous_bottle": {
+        "name": "不吉な瓶",
+        "locate": [133, 29.5, 72],
+        "group": "ポーション素材"
+    },
+    "experience_bottle": {
+        "name": "エンチャントの瓶",
+        "locate": [133, 29.5, 71],
+        "group": "ポーション素材"
+    },
+    "glistering_melon_slice": {
+        "name": "きらめくスイカの薄切り",
+        "locate": [133, 29.5, 62],
+        "group": "ポーション素材"
+    },
+    "rabbit_foot": {
+        "name": "ウサギの足",
+        "locate": [133, 29.5, 58],
+        "group": "ポーション素材"
+    },
+    "emerald_ore": {
+        "name": "エメラルド鉱石",
+        "locate": [120, 29.5, 37],
+        "group": "鉱石"
+    },
+    "deepslate_emerald_ore": {
+        "name": "深層エメラルド鉱石",
+        "locate": [120, 29.5, 37],
+        "group": "鉱石"
+    },
+    "emerald_block": {
+        "name": "エメラルドブロック",
+        "locate": [121, 29.5, 37],
+        "group": "鉱石"
+    },
+    "iron_ore": {
+        "name": "鉄鉱石",
+        "locate": [123, 29.5, 37],
+        "group": "鉱石"
+    },
+    "deepslate_iron_ore": {
+        "name": "深層鉄鉱石",
+        "locate": [123, 29.5, 37],
+        "group": "鉱石"
+    },
+    "raw_iron": {
+        "name": "鉄の原石",
+        "locate": [123, 29.5, 37],
+        "group": "鉱石"
+    },
+    "raw_iron_block": {
+        "name": "鉄の原石ブロック",
+        "locate": [123, 29.5, 37],
+        "group": "鉱石"
+    },
+    "iron_block": {
+        "name": "鉄ブロック",
+        "locate": [124, 29.5, 37],
+        "group": "鉱石"
+    },
+    "iron_nugget": {
+        "name": "鉄塊",
+        "locate": [124, 29.5, 37],
+        "group": "鉱石"
+    },
+    "diamond_ore": {
+        "name": "ダイヤモンド鉱石",
+        "locate": [126, 29.5, 37],
+        "group": "鉱石"
+    },
+    "deepslate_diamond_ore": {
+        "name": "深層ダイヤモンド鉱石",
+        "locate": [126, 29.5, 37],
+        "group": "鉱石"
+    },
+    "diamond_block": {
+        "name": "ダイヤモンドブロック",
+        "locate": [127, 29.5, 37],
+        "group": "鉱石"
+    },
+    "gold_ore": {
+        "name": "金鉱石",
+        "locate": [130, 29.5, 37],
+        "group": "鉱石"
+    },
+    "deepslate_gold_ore": {
+        "name": "深層金鉱石",
+        "locate": [130, 29.5, 37],
+        "group": "鉱石"
+    },
+    "nether_gold_ore": {
+        "name": "ネザー金鉱石",
+        "locate": [130, 29.5, 37],
+        "group": "鉱石"
+    },
+    "raw_gold": {
+        "name": "金の原石",
+        "locate": [130, 29.5, 37],
+        "group": "鉱石"
+    },
+    "raw_gold_block": {
+        "name": "金の原石ブロック",
+        "locate": [130, 29.5, 37],
+        "group": "鉱石"
+    },
+    "gold_block": {
+        "name": "金ブロック",
+        "locate": [130, 29.5, 37],
+        "group": "鉱石"
+    },
+    "gold_nugget": {
+        "name": "金塊",
+        "locate": [130, 29.5, 37],
+        "group": "鉱石"
+    },
+    "lapis_ore": {
+        "name": "ラピスラズリ鉱石",
+        "locate": [132, 29.5, 37],
+        "group": "鉱石"
+    },
+    "deepslate_lapis_ore": {
+        "name": "深層ラピスラズリ鉱石",
+        "locate": [132, 29.5, 37],
+        "group": "鉱石"
+    },
+    "lapis_block": {
+        "name": "ラピスラズリブロック",
+        "locate": [133, 29.5, 37],
+        "group": "鉱石"
+    },
+    "redstone_ore": {
+        "name": "レッドストーン鉱石",
+        "locate": [135, 29.5, 37],
+        "group": "鉱石"
+    },
+    "deepslate_redstone_ore": {
+        "name": "深層レッドストーン鉱石",
+        "locate": [135, 29.5, 37],
+        "group": "鉱石"
+    },
+    "redstone_block": {
+        "name": "レッドストーンブロック",
+        "locate": [136, 29.5, 37],
+        "group": "鉱石"
+    },
+    "coal_ore": {
+        "name": "石炭鉱石",
+        "locate": [138, 29.5, 37],
+        "group": "鉱石"
+    },
+    "deepslate_coal_ore": {
+        "name": "深層石炭鉱石",
+        "locate": [138, 29.5, 37],
+        "group": "鉱石"
+    },
+    "deepslate_copper_ore": {
+        "name": "深層銅鉱石",
+        "locate": [141, 29.5, 37],
+        "group": "鉱石"
+    },
+    "copper_ore": {
+        "name": "銅鉱石",
+        "locate": [141, 29.5, 37],
+        "group": "鉱石"
+    },
+    "raw_copper_block": {
+        "name": "銅の原石ブロック",
+        "locate": [141, 29.5, 37],
+        "group": "鉱石"
+    },
+    "raw_copper": {
+        "name": "銅の原石",
+        "locate": [141, 29.5, 37],
+        "group": "鉱石"
+    },
+    "lightning_rod": {
+        "name": "避雷針",
+        "locate": [142, 29.5, 37],
+        "group": "鉱石"
+    },
+    "nether_quartz_ore": {
+        "name": "ネザークォーツ鉱石",
+        "locate": [144, 29.5, 37],
+        "group": "鉱石"
+    },
+    "ancient_debris": {
+        "name": "古代の残骸",
+        "locate": [147, 29.5, 37],
+        "group": "鉱石"
+    },
+    "netherite_ingot": {
+        "name": "ネザライトインゴット",
+        "locate": [148, 29.5, 37],
+        "group": "鉱石"
+    },
+    "netherite_block": {
+        "name": "ネザライトブロック",
+        "locate": [148, 29.5, 37],
+        "group": "鉱石"
+    },
+    "netherite_scrap": {
+        "name": "ネザライトの欠片",
+        "locate": [148, 29.5, 37],
+        "group": "鉱石"
+    },
+    "calibrated_sculk_sensor": {
+        "name": "調律されたスカルクセンサー",
+        "locate": [143, 29.5, 34],
+        "group": "RS回路"
+    },
+    "redstone_lamp": {
+        "name": "レッドストーンランプ",
+        "locate": [143, 29.5, 34],
+        "group": "RS回路"
+    },
+    "target": {
+        "name": "的",
+        "locate": [142, 29.5, 34],
+        "group": "RS回路"
+    },
+    "iron_door": {
+        "name": "鉄のドア",
+        "locate": [142, 29.5, 34],
+        "group": "RS回路"
+    },
+    "iron_trapdoor": {
+        "name": "鉄のトラップドア",
+        "locate": [141, 29.5, 35],
+        "group": "RS回路"
+    },
+    "note_block": {
+        "name": "音符ブロック",
+        "locate": [141, 29.5, 35],
+        "group": "RS回路"
+    },
+    "crafter": {
+        "name": "自動作業台",
+        "locate": [139, 29.5, 35],
+        "group": "RS回路"
+    },
+    "observer": {
+        "name": "オブザーバー",
+        "locate": [138, 29.5, 34],
+        "group": "RS回路"
+    },
+    "dispenser": {
+        "name": "ディスペンサー",
+        "locate": [137, 29.5, 34],
+        "group": "RS回路"
+    },
+    "sticky_piston": {
+        "name": "粘着ピストン",
+        "locate": [137, 29.5, 34],
+        "group": "RS回路"
+    },
+    "piston": {
+        "name": "ピストン",
+        "locate": [136, 29.5, 34],
+        "group": "RS回路"
+    },
+    "dropper": {
+        "name": "ドロッパー",
+        "locate": [136, 29.5, 34],
+        "group": "RS回路"
+    },
+    "hopper": {
+        "name": "ホッパー",
+        "locate": [134, 29.5, 34],
+        "group": "RS回路"
+    },
+    "activator_rail": {
+        "name": "アクティベーターレール",
+        "locate": [134, 29.5, 34],
+        "group": "RS回路"
+    },
+    "detector_rail": {
+        "name": "ディテクターレール",
+        "locate": [133, 29.5, 35],
+        "group": "RS回路"
+    },
+    "chest_minecart": {
+        "name": "チェスト付きのトロッコ",
+        "locate": [133, 29.5, 35],
+        "group": "RS回路"
+    },
+    "tnt_minecart": {
+        "name": "TNT付きのトロッコ",
+        "locate": [133, 29.5, 35],
+        "group": "RS回路"
+    },
+    "hopper_minecart": {
+        "name": "ホッパー付きのトロッコ",
+        "locate": [132, 29.5, 35],
+        "group": "RS回路"
+    },
+    "furnace_minecart": {
+        "name": "かまど付きのトロッコ",
+        "locate": [132, 29.5, 35],
+        "group": "RS回路"
+    },
+    "powered_rail": {
+        "name": "パワードレール",
+        "locate": [132, 29.5, 35],
+        "group": "RS回路"
+    },
+    "rail": {
+        "name": "レール",
+        "locate": [131, 29.5, 35],
+        "group": "RS回路"
+    },
+    "minecart": {
+        "name": "トロッコ",
+        "locate": [131, 29.5, 35],
+        "group": "RS回路"
+    },
+    "redstone_torch": {
+        "name": "レッドストーントーチ",
+        "locate": [129, 29.5, 34],
+        "group": "RS回路"
+    },
+    "daylight_detector": {
+        "name": "日照センサー",
+        "locate": [129, 29.5, 34],
+        "group": "RS回路"
+    },
+    "heavy_weighted_pressure_plate": {
+        "name": "重量用感圧板",
+        "locate": [128, 29.5, 34],
+        "group": "RS回路"
+    },
+    "light_weighted_pressure_plate": {
+        "name": "軽量用感圧板",
+        "locate": [128, 29.5, 34],
+        "group": "RS回路"
+    },
+    "stone_pressure_plate": {
+        "name": "石の感圧板",
+        "locate": [128, 29.5, 34],
+        "group": "RS回路"
+    },
+    "polished_blackstone_pressure_plate": {
+        "name": "磨かれたブラックストーンの感圧板",
+        "locate": [128, 29.5, 34],
+        "group": "RS回路"
+    },
+    "tripwire_hook": {
+        "name": "トリップワイヤーフック",
+        "locate": [128, 29.5, 34],
+        "group": "RS回路"
+    },
+    "lever": {
+        "name": "レバー",
+        "locate": [127, 29.5, 34],
+        "group": "RS回路"
+    },
+    "repeater": {
+        "name": "レッドストーンリピーター",
+        "locate": [126, 29.5, 34],
+        "group": "RS回路"
+    },
+    "dark_oak_button": {
+        "name": "ダークオークのボタン",
+        "locate": [126, 29.5, 34],
+        "group": "RS回路"
+    },
+    "oak_button": {
+        "name": "オークのボタン",
+        "locate": [126, 29.5, 34],
+        "group": "RS回路"
+    },
+    "spruce_button": {
+        "name": "トウヒのボタン",
+        "locate": [126, 29.5, 34],
+        "group": "RS回路"
+    },
+    "birch_button": {
+        "name": "シラカバのボタン",
+        "locate": [126, 29.5, 34],
+        "group": "RS回路"
+    },
+    "jungle_button": {
+        "name": "ジャングルのボタン",
+        "locate": [126, 29.5, 34],
+        "group": "RS回路"
+    },
+    "acacia_button": {
+        "name": "アカシアのボタン",
+        "locate": [126, 29.5, 34],
+        "group": "RS回路"
+    },
+    "bamboo_button": {
+        "name": "竹のボタン",
+        "locate": [126, 29.5, 34],
+        "group": "RS回路"
+    },
+    "crimson_button": {
+        "name": "真紅のボタン",
+        "locate": [126, 29.5, 34],
+        "group": "RS回路"
+    },
+    "warped_button": {
+        "name": "歪んだボタン",
+        "locate": [126, 29.5, 34],
+        "group": "RS回路"
+    },
+    "stone_button": {
+        "name": "石のボタン",
+        "locate": [126, 29.5, 34],
+        "group": "RS回路"
+    },
+    "polished_blackstone_button": {
+        "name": "磨かれたブラックストーンのボタン",
+        "locate": [126, 29.5, 34],
+        "group": "RS回路"
+    },
+    "music_disc_mall": {
+        "name": "レコード",
+        "locate": [123, 29.5, 29],
+        "group": "レコード"
+    },
+    "music_disc_far": {
+        "name": "レコード",
+        "locate": [123, 29.5, 29],
+        "group": "レコード"
+    },
+    "music_disc_wait": {
+        "name": "レコード",
+        "locate": [123, 29.5, 29],
+        "group": "レコード"
+    },
+    "jukebox": {
+        "name": "ジュークボックス",
+        "locate": [123, 29.5, 29],
+        "group": "レコード"
+    },
+    "dragon_head": {
+        "name": "ドラゴンの頭",
+        "locate": [123, 29.5, 29],
+        "group": "MOBの頭"
+    },
+    "piglin_head": {
+        "name": "ピグリンの頭",
+        "locate": [123, 29.5, 30],
+        "group": "MOBの頭"
+    },
+    "zombie_head": {
+        "name": "ゾンビの頭",
+        "locate": [123, 29.5, 30],
+        "group": "MOBの頭"
+    },
+    "skeleton_skull": {
+        "name": "スケルトンの頭蓋骨",
+        "locate": [123, 29.5, 30],
+        "group": "MOBの頭"
+    },
+    "creeper_head": {
+        "name": "クリーパーの頭",
+        "locate": [123, 29.5, 30],
+        "group": "MOBの頭"
+    },
+    "wither_skeleton_skull": {
+        "name": "ウィザースケルトンの頭蓋骨",
+        "locate": [123, 29.5, 30],
+        "group": "MOBの頭"
+    },
+    "end_crystal": {
+        "name": "エンドクリスタル",
+        "locate": [123, 29.5, 26],
+        "group": "その他MOBドロップ"
+    },
+    "totem_of_undying": {
+        "name": "不死のトーテム",
+        "locate": [123, 29.5, 25],
+        "group": "その他MOBドロップ"
+    },
+    "nether_star": {
+        "name": "ネザースター",
+        "locate": [123, 29.5, 25],
+        "group": "その他MOBドロップ"
+    },
+    "heart_of_the_sea": {
+        "name": "海洋の心",
+        "locate": [123, 29.5, 25],
+        "group": "その他MOBドロップ"
+    },
+    "nautilus_shell": {
+        "name": "オウムガイの殻",
+        "locate": [123, 29.5, 25],
+        "group": "その他MOBドロップ"
+    },
+    "turtle_egg": {
+        "name": "カメの卵",
+        "locate": [123, 29.5, 21],
+        "group": "その他MOBドロップ"
+    },
+    "wind_charge": {
+        "name": "ウィンドチャージ",
+        "locate": [124, 29.5, 19],
+        "group": "その他MOBドロップ"
+    },
+    "trial_key": {
+        "name": "試練の鍵",
+        "locate": [124, 29.5, 16],
+        "group": "その他MOBドロップ"
+    },
+    "ominous_trial_key": {
+        "name": "不吉な試練の鍵",
+        "locate": [124, 29.5, 15],
+        "group": "その他MOBドロップ"
+    },
+    "slime_ball": {
+        "name": "スライムボール",
+        "locate": [122, 29.5, 22],
+        "group": "その他MOBドロップ"
+    },
+    "bone_block": {
+        "name": "骨ブロック",
+        "locate": [129, 29.5, 26],
+        "group": "その他MOBドロップ"
+    },
+    "bone_meal": {
+        "name": "骨粉",
+        "locate": [129, 29.5, 26],
+        "group": "その他MOBドロップ"
+    },
+    "bone": {
+        "name": "骨",
+        "locate": [129, 29.5, 25],
+        "group": "その他MOBドロップ"
+    },
+    "cut_copper": {
+        "name": "切り込み入りの銅",
+        "locate": [143, 29.5, 25],
+        "group": "錆止めしてないシリーズ"
+    },
+    "cut_copper_stairs": {
+        "name": "切り込み入りの銅の階段",
+        "locate": [143, 29.5, 25],
+        "group": "錆止めしてないシリーズ"
+    },
+    "cut_copper_slab": {
+        "name": "切り込み入りの銅のハーフブロック",
+        "locate": [143, 29.5, 25],
+        "group": "錆止めしてないシリーズ"
+    },
+    "copper_grate": {
+        "name": "銅の格子",
+        "locate": [143, 29.5, 25],
+        "group": "錆止めしてないシリーズ"
+    },
+    "exposed_copper": {
+        "name": "風化した銅",
+        "locate": [143, 29.5, 24],
+        "group": "錆止めしてないシリーズ"
+    },
+    "exposed_cut_copper": {
+        "name": "風化した切り込み入りの銅",
+        "locate": [143, 29.5, 24],
+        "group": "錆止めしてないシリーズ"
+    },
+    "exposed_cut_copper_slab": {
+        "name": "風化した切り込み入りの銅のハーフブロック",
+        "locate": [143, 29.5, 24],
+        "group": "錆止めしてないシリーズ"
+    },
+    "weathered_copper": {
+        "name": "錆びた銅",
+        "locate": [143, 29.5, 23],
+        "group": "錆止めしてないシリーズ"
+    },
+    "weathered_cut_copper": {
+        "name": "錆びた切り込み入りの銅",
+        "locate": [143, 29.5, 23],
+        "group": "錆止めしてないシリーズ"
+    },
+    "weathered_cut_copper_stairs": {
+        "name": "錆びた切り込み入りの銅の階段",
+        "locate": [143, 29.5, 23],
+        "group": "錆止めしてないシリーズ"
+    },
+    "weathered_cut_copper_slab": {
+        "name": "錆びた切り込み入りの銅のハーフブロック",
+        "locate": [143, 29.5, 23],
+        "group": "錆止めしてないシリーズ"
+    },
+    "weathered_copper_trapdoor": {
+        "name": "錆びた銅のトラップドア",
+        "locate": [143, 29.5, 23],
+        "group": "錆止めしてないシリーズ"
+    },
+    "oxidized_copper": {
+        "name": "酸化した銅",
+        "locate": [143, 29.5, 22],
+        "group": "錆止めしてないシリーズ"
+    },
+    "oxidized_cut_copper": {
+        "name": "酸化した切り込み入りの銅",
+        "locate": [143, 29.5, 22],
+        "group": "錆止めしてないシリーズ"
+    },
+    "oxidized_cut_copper_stairs": {
+        "name": "酸化した切り込み入りの銅の階段",
+        "locate": [143, 29.5, 22],
+        "group": "錆止めしてないシリーズ"
+    },
+    "oxidized_cut_copper_slab": {
+        "name": "酸化した切り込み入りの銅のハーフブロック",
+        "locate": [143, 29.5, 22],
+        "group": "錆止めしてないシリーズ"
+    },
+    "oxidized_copper_grate": {
+        "name": "酸化した銅の格子",
+        "locate": [143, 29.5, 22],
+        "group": "錆止めしてないシリーズ"
+    },
+    "chiseled_copper": {
+        "name": "模様入りの銅",
+        "locate": [144, 29.5, 20],
+        "group": "錆止めしてないシリーズ"
+    },
+    "copper_trapdoor": {
+        "name": "銅のトラップドア",
+        "locate": [144, 29.5, 20],
+        "group": "錆止めしてないシリーズ"
+    },
+    "copper_door": {
+        "name": "銅のドア",
+        "locate": [144, 29.5, 20],
+        "group": "錆止めしてないシリーズ"
+    },
+    "exposed_copper_bulb": {
+        "name": "風化した銅の電球",
+        "locate": [144, 29.5, 19],
+        "group": "錆止めしてないシリーズ"
+    },
+    "exposed_copper_trapdoor": {
+        "name": "風化した銅のトラップドア",
+        "locate": [144, 29.5, 19],
+        "group": "錆止めしてないシリーズ"
+    },
+    "oxidized_copper_trapdoor": {
+        "name": "酸化した銅のトラップドア",
+        "locate": [144, 29.5, 17],
+        "group": "錆止めしてないシリーズ"
+    },
+    "waxed_oxidized_copper_bulb": {
+        "name": "錆止めされた酸化した銅の電球",
+        "locate": [143, 29.5, 17],
+        "group": "錆止めシリーズ"
+    },
+    "waxed_oxidized_copper_trapdoor": {
+        "name": "錆止めされた酸化した銅のトラップドア",
+        "locate": [143, 29.5, 17],
+        "group": "錆止めシリーズ"
+    },
+    "waxed_oxidized_copper_door": {
+        "name": "錆止めされた酸化した銅のドア",
+        "locate": [143, 29.5, 17],
+        "group": "錆止めシリーズ"
+    },
+    "waxed_exposed_copper_bulb": {
+        "name": "錆止めされた風化した銅の電球",
+        "locate": [142, 29.5, 19],
+        "group": "錆止めシリーズ"
+    },
+    "waxed_chiseled_copper": {
+        "name": "錆止めされた模様入りの銅",
+        "locate": [142, 29.5, 20],
+        "group": "錆止めシリーズ"
+    },
+    "waxed_copper_bulb": {
+        "name": "錆止めされた銅の電球",
+        "locate": [142, 29.5, 20],
+        "group": "錆止めシリーズ"
+    },
+    "waxed_copper_door": {
+        "name": "錆止めされた銅のドア",
+        "locate": [142, 29.5, 20],
+        "group": "錆止めシリーズ"
+    },
+    "waxed_copper_trapdoor": {
+        "name": "錆止めされた銅のトラップドア",
+        "locate": [142, 29.5, 20],
+        "group": "錆止めシリーズ"
+    },
+    "waxed_oxidized_copper": {
+        "name": "錆止めされた酸化した銅",
+        "locate": [142, 29.5, 22],
+        "group": "錆止めシリーズ"
+    },
+    "waxed_oxidized_cut_copper": {
+        "name": "錆止めされた酸化した切り込み入りの銅",
+        "locate": [142, 29.5, 22],
+        "group": "錆止めシリーズ"
+    },
+    "waxed_oxidized_cut_copper_stairs": {
+        "name": "錆止めされた酸化した切り込み入りの銅の階段",
+        "locate": [142, 29.5, 22],
+        "group": "錆止めシリーズ"
+    },
+    "waxed_oxidized_cut_copper_slab": {
+        "name": "錆止めされた酸化した切り込み入りの銅のハーフブロック",
+        "locate": [142, 29.5, 22],
+        "group": "錆止めシリーズ"
+    },
+    "waxed_oxidized_copper_grate": {
+        "name": "錆止めされた酸化した銅の格子",
+        "locate": [142, 29.5, 22],
+        "group": "錆止めシリーズ"
+    },
+    "waxed_weathered_copper": {
+        "name": "錆止めされた錆びた銅",
+        "locate": [142, 29.5, 23],
+        "group": "錆止めシリーズ"
+    },
+    "waxed_exposed_copper": {
+        "name": "錆止めされた風化した銅",
+        "locate": [142, 29.5, 24],
+        "group": "錆止めシリーズ"
+    },
+    "waxed_exposed_cut_copper": {
+        "name": "錆止めされた風化した切り込み入りの銅",
+        "locate": [142, 29.5, 24],
+        "group": "錆止めシリーズ"
+    },
+    "exposed_cut_copper_stairs": {
+        "name": "風化した切り込み入りの銅の階段",
+        "locate": [142, 29.5, 24],
+        "group": "錆止めシリーズ"
+    },
+    "waxed_exposed_cut_copper_slab": {
+        "name": "錆止めされた風化した切り込み入りの銅のハーフブロック",
+        "locate": [142, 29.5, 24],
+        "group": "錆止めシリーズ"
+    },
+    "waxed_copper_block": {
+        "name": "錆止めされた銅ブロック",
+        "locate": [142, 29.5, 25],
+        "group": "錆止めシリーズ"
+    },
+    "waxed_cut_copper": {
+        "name": "錆止めされた切り込み入りの銅",
+        "locate": [142, 29.5, 25],
+        "group": "錆止めシリーズ"
+    },
+    "waxed_cut_copper_stairs": {
+        "name": "錆止めされた切り込み入りの銅の階段",
+        "locate": [142, 29.5, 25],
+        "group": "錆止めシリーズ"
+    },
+    "waxed_cut_copper_slab": {
+        "name": "錆止めされた切り込み入りの銅のハーフブロック",
+        "locate": [142, 29.5, 25],
+        "group": "錆止めシリーズ"
+    },
+    "waxed_copper_grate": {
+        "name": "錆止めされた銅の格子",
+        "locate": [142, 29.5, 25],
+        "group": "錆止めシリーズ"
+    },
+    "armadillo_scute": {
+        "name": "アルマジロのウロコ",
+        "locate": [137, 29.5, 29],
+        "group": "友好MOBドロップ系"
+    },
+    "glow_ink_sac": {
+        "name": "輝くイカスミ",
+        "locate": [135, 29.5, 29],
+        "group": "友好MOBドロップ系"
+    },
+    "ink_sac": {
+        "name": "イカスミ",
+        "locate": [134, 29.5, 29],
+        "group": "友好MOBドロップ系"
+    },
+    "egg": {
+        "name": "卵",
+        "locate": [131, 29.5, 29],
+        "group": "友好MOBドロップ系"
+    },
+    "feather": {
+        "name": "羽根",
+        "locate": [132, 29.5, 29],
+        "group": "友好MOBドロップ系"
+    },
+    "rabbit_hide": {
+        "name": "ウサギの皮",
+        "locate": [128, 29.5, 29],
+        "group": "友好MOBドロップ系"
     }
 }
