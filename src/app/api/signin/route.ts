@@ -19,8 +19,7 @@ export async function POST(request: NextRequest) {
 
     try {
         const [rows] = await pool.execute<RowDataPacket[]>(
-            'SELECT * FROM users WHERE id = ?',
-            [id]
+            "SELECT * FROM users WHERE id = ?",[id]
         );
 
         if (rows.length === 0) {

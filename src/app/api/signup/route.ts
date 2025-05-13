@@ -15,8 +15,7 @@ export async function POST(request: NextRequest) {
 
     try {
         const [rows] = await pool.execute<RowDataPacket[]>(
-            'SELECT * FROM users WHERE id = ?',
-            [id]
+            "SELECT * FROM users WHERE id = ?",[id]
         );
 
         if (rows.length > 0) {
@@ -26,7 +25,7 @@ export async function POST(request: NextRequest) {
         const hashedPassword = await bcrypt.hash(password, 10);
 
         const [rows2] = await pool.execute<RowDataPacket[]>(
-            `INSERT INTO 'users' ('id', 'password', 'num') VALUES ('${id}', '${hashedPassword}', NULL);`
+            "INSERT INTO `users` (`id`, `password`, `num`) VALUES ('" + id + "', '" + hashedPassword + "', NULL);"
         );
         
         return NextResponse.json({ "response": 'Account Created' }, { status: 200 });
