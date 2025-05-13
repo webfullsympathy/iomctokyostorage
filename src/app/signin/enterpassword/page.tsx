@@ -12,18 +12,8 @@ export default async function EnterPasswordPage({
         return <p>session または id が指定されていません。</p>;
     }
 
-    // Misskey.ioからユーザーデータ取得
-    const res = await fetch('https://misskey.io/api/i', {
-        method: 'POST',
-        headers: { 'Content-Type': 'application/json' },
-        body: JSON.stringify({ i: session, id }),
-    });
-    const data = await res.json();
-    const username = data.username as string;
-
     return (
         <Form
-            username={username}
             session={session}
             id={id}
         />

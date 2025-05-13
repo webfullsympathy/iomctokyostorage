@@ -6,7 +6,7 @@ import itemsJson from "../items.json";
 
 type Item = {
   name: string;
-  locate: Array<Number>;
+  locate: Array<number>;
   group: string;
 };
 
@@ -44,13 +44,7 @@ export default function SearchContent() {
                 <Link href={`/items/detail?item=${key}`}>{item.name}</Link>
                 <br />
                 <small>
-                  X
-                  {item.locate[0].toString() + " "}
-                  Y
-                  {item.locate[1].toString() + " "}
-                  Z
-                  {item.locate[2].toString()}
-                  
+                  X {item.locate[0]} Y {item.locate[1]} Z {item.locate[2]}
                   （ジャンル: {item.group}）
                 </small>
               </li>

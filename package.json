@@ -11,6 +11,7 @@
   "dependencies": {
     "@next/third-parties": "^15.3.1",
     "@vercel/analytics": "^1.5.0",
+    "bcrypt": "^5.1.1",
     "bulma": "^1.0.4",
     "dotenv": "^16.5.0",
     "eslint": "^9.26.0",
@@ -23,8 +24,9 @@
     "uuid": "^11.1.0"
   },
   "devDependencies": {
+    "@types/bcrypt": "^5.0.2",
     "@types/mysql": "^2.15.27",
-    "@types/node": "^20",
+    "@types/node": "^20.17.46",
     "@types/react": "^19",
     "@types/react-dom": "^19",
     "eslint-config-next": "15.3.1",

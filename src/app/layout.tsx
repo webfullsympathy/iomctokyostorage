@@ -5,8 +5,6 @@ import { GoogleAnalytics } from "@next/third-parties/google";
 
 import "./bulma.css";
 
-require("dotenv").config();
-
 export const metadata: Metadata = {
   title: "iomc東京倉庫",
   description: "iomc東京倉庫のツールを用意しています",

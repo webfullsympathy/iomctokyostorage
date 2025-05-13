@@ -25,7 +25,7 @@ export default function Form({
                 const res = await fetch('https://misskey.io/api/i', {
                     method: 'POST',
                     headers: { 'Content-Type': 'application/json' },
-                    body: JSON.stringify({ i: session, id: id }),
+                    body: JSON.stringify({ i: session, id }),
                 });
                 const data = await res.json();
                 setUsername(data.username);
@@ -43,7 +43,7 @@ export default function Form({
         e.preventDefault();
 
         try {
-            const res = await fetch(`/api/signin`, {
+            const res = await fetch(`/api/signup`, {
                 method: 'POST',
                 headers: { 'Content-Type': 'application/json' },
                 body: JSON.stringify({
@@ -52,21 +52,20 @@ export default function Form({
                 }),
             });
             const data = await res.json();
-
-            if (data.respose !== "Auth Verified") {
-                alert("サインインに失敗しました: " + data.respose);
-            } else {
-                alert("サインインしました");
-                window.location.href = "/";
+            if(data.response != "Account Created"){
+                alert("サインアップに失敗しました: " + data.response);
+            }else{
+                alert("アカウントを作成しました");
+                window.location.href = "/login";
             }
         } catch (error) {
-            console.error('サインイン中にエラーが発生しました:', error);
+            console.error('サインアップ中にエラーが発生しました:', error);
         }
     };
 
     return (
         <div className="content has-text-centered">
-            <h2>サインイン</h2>
+            <h2>サインアップ</h2>
 
             <form onSubmit={handleSubmit}>
                 {avatarUrl && (
@@ -109,7 +108,7 @@ export default function Form({
 
                 <br />
 
-                <button type="submit" className="button is-primary">サインイン</button>
+                <button type="submit" className="button is-primary">サインアップ</button>
             </form>
         </div>
     );
