@@ -86,7 +86,6 @@ export default function Form({
                 )}
 
                 <label className="label">ユーザー名</label>
-                <br />
                 <input
                     type="text"
                     value={username}
