@@ -94,8 +94,7 @@ export default function Form({
 
                 <br />
 
-                <label>パスワード</label>
-                <br />
+                <label className="label">パスワード</label>
                 <input
                     type="password"
                     name="password"
