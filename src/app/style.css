@@ -1,0 +1,14 @@
+.header{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.title{
+    margin: 0;
+}
+
+.signinLink{
+    text-decoration: none;
+    color: inherit;
+}

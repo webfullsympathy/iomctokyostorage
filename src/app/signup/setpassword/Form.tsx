@@ -56,7 +56,7 @@ export default function Form({
                 alert("サインアップに失敗しました: " + data.response);
             }else{
                 alert("アカウントを作成しました");
-                window.location.href = "/login";
+                window.location.href = "/signin";
             }
         } catch (error) {
             console.error('サインアップ中にエラーが発生しました:', error);

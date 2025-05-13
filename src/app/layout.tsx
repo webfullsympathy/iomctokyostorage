@@ -3,7 +3,10 @@ import type { Metadata } from "next";
 import { Analytics } from '@vercel/analytics/next';
 import { GoogleAnalytics } from "@next/third-parties/google";
 
+import Link from "next/link";
+
 import "./bulma.css";
+import "./style.css"
 
 export const metadata: Metadata = {
   title: "iomc東京倉庫",
@@ -21,7 +24,16 @@ export default function RootLayout(
   return (
     <html lang="ja">
       <body>
-        <h1 className="title">iomc東京倉庫</h1>
+        <header className="header">
+          <span className="title" style={{margin: "0"}}>iomc東京倉庫</span>
+
+          <Link href="/signin" className="signinLink">
+            <button className="button">サインイン</button>
+          </Link>
+        </header>
+
+        <br />
+
         {children}
 
         <div className="content has-text-centered">
