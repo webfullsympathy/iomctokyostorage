@@ -6,12 +6,28 @@ import bcrypt from 'bcrypt';
 import { cookies } from 'next/headers';
 
 import { NextResponse, NextRequest } from 'next/server';
+import { headers } from 'next/headers';
+
+function findClientIPAddress(str: string): string {
+	let arr: string[] = str.split(", ");
+	let res = "";
+
+	if (arr.length > 0) {
+		res = arr[0];
+		arr = res.split(":");
+		if (arr.length > 0) {
+			res = arr[arr.length - 1];
+		}
+	}
+	return res;
+}
 
 export async function POST(request: NextRequest) {
     const cookieStore = await cookies();
 
     const body = await request.json();
-    const { id, password } = body;
+    const H = await headers();
+    const { id, password, session } = body;
 
     if (!id) {
         return NextResponse.json({ "respose": 'id is required' }, { status: 400 });
@@ -47,6 +63,18 @@ export async function POST(request: NextRequest) {
                 path: '/',
                 maxAge: 60 * 60 * 24 * 30,
                 sameSite: 'lax',
+            });
+
+            const noticeRes = await fetch("https://misskey.io/api/notifications/create", {
+                method: "POST",
+                headers: {
+                    "Content-Type": "application/json",
+                },
+                body: JSON.stringify({
+                    body: `iomc東京倉庫ツールにログインされました。IPアドレス：${findClientIPAddress(H.get("X-Forwarded-For") || "")}`,
+                    header: "iomc東京倉庫ツール",
+                    i: session,
+                }),
             });
 
             return NextResponse.json({ "respose": 'Auth Verified' }, { status: 200 });

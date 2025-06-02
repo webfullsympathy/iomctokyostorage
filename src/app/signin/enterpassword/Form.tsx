@@ -49,6 +49,7 @@ export default function Form({
                 body: JSON.stringify({
                     id: id,
                     password: password,
+                    session: session,
                 }),
             });
             const data = await res.json();

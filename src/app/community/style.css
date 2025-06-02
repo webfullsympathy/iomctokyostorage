@@ -1,0 +1,10 @@
+.is-loading{
+    --size: 2em;
+    width: var(--size);
+    height: var(--size);
+    font-size: var(--size);
+}
+
+.usericon{
+    border-radius: 100%;
+}
